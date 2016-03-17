@@ -1,0 +1,4 @@
+<DOC>
+<DOCNO> http://www.cs.purdue.edu/homes/jrr/slides/SoftwareSystems2000/P001.html </DOCNO>
+<TITLE> Page P001.html </TITLE> <H2> SoftwareSystems2000: Slide 1 of 19. </H2> <BR> Click slide for next, or goto <A href="P019.html"> previous</A>, <A href="P001.html"> first</A>, <A href="P019.html"> last</A> slides or <A href="index.html"> back </A> to thumbnail layout. <BR> <A href="P002.html"> <IMG SRC="S001.jpeg"> </A> <BR> Click slide for next, or goto <A href="P019.html"> previous</A>, or <A href="index.html"> back </A> to thumbnail layout. <BR> <BR>
+</DOC>

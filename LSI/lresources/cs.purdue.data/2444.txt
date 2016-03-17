@@ -1,0 +1,4 @@
+<DOC>
+<DOCNO> http://www.cs.purdue.edu/homes/ayg/CS590D/lectures/lec7.html </DOCNO>
+<HTML><HEAD><TITLE>Class Lecture #7 (CS 590D)</TITLE></HEAD> <BODY BGCOLOR="ffffff"> </HEAD> <BR> <H2>Lecture #7</H2> <HR NOSHADE SIZE=2> <P><!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN"></P> <ul> <li><B>Introduction to Statistical Perspectives</B><BR> <i>Theme:</i> What does statistics offer for data miners?<BR> <i>Tuesday, February 3, 1998</i><BR> <B><a href="../docs/slides2.ps">Lecture Slides</a></B> <BR> <BR> </ul> <BR> </P> <HR NOSHADE SIZE=2> </P> <A HREF="../index.html"><IMG SRC="../images/returnhome.gif" ALT="Return Home" BORDER=0></A> </BODY></HTML> </BODY></HTML>
+</DOC>

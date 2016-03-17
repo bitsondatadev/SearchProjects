@@ -1,0 +1,4 @@
+<DOC>
+<DOCNO> http://www.cs.purdue.edu/about_us/annual_reports/98/funding/palsberg_fund.html </DOCNO>
+<HTML> <HEAD> <TITLE>Palsberg Funding</TITLE> </HEAD> <BODY BGCOLOR="WHITE"> <p> <!--500-1398-3342--> <b>Jens Palsberg</b>. Type Inference for Object-Oriented Software. Career, 04/98&#151;12/99, $105,000. <p> <!--530-1398-1436--> <b>Jens Palsberg</b>. Perpetual Testing. EDCS/DARPA Rome Labs, 12/96&#151;04/00, $200,000. <p> <!--530-1398-1555--> <b>Jens Palsberg</b>. Evolution of Software via Adaptive Programming. ARPA 09/98&#151;10/99, $5,000. <P> <FONT COLOR="#ce9c33" SIZE="-1"> <A HREF="http://www.cs.purdue.edu/ar98" TARGET="_top"> <CENTER> 1998 <BR> Annual Research Report</A> <P> <A HREF="http://www.cs.purdue.edu" TARGET="_top">Department of <BR> Computer Sciences</A> </CENTER> </FONT> </BODY> </HTML> </HTML>
+</DOC>

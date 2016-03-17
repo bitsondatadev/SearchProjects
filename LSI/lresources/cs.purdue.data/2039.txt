@@ -1,0 +1,4 @@
+<DOC>
+<DOCNO> http://www.cs.purdue.edu/homes/jrr/PSE-Sci-Comp/P017.html </DOCNO>
+<TITLE> Page P017.html </TITLE> <H2> PSE-Sci-Comp: Slide 17 of 27. </H2> <BR> Click slide for next, or goto <A href="P016.html"> previous</A>, <A href="P001.html"> first</A>, <A href="P027.html"> last</A> slides or <A href="index.html"> back </A> to thumbnail layout. <BR> <A href="P018.html"> <IMG SRC="S017.gif"> </A> <BR> Click slide for next, or goto <A href="P016.html"> previous</A>, or <A href="index.html"> back </A> to thumbnail layout. layout.
+</DOC>

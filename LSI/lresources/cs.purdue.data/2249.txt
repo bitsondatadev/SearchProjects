@@ -1,0 +1,4 @@
+<DOC>
+<DOCNO> http://www.cs.purdue.edu/research/cse/ifestos/index.html </DOCNO>
+<html> <!-- written by Ann Christine Catlin, Jun-11-1998 --> <head> <title>IFESTOS: The Kernel of a Recommender System</title> </head> <frameset cols="20%,80%" border=2> <frameset rows="77%,23%" border=1> <frame src="toc.html" name="toc" noresize scrolling="auto"> <frame src="mail.html" name="mail" noresize scrolling="auto"> </frameset> <frame src="contents.html" name="contents" scrolling="auto"> </frameset> </body> </html> </html>
+</DOC>

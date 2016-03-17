@@ -1,0 +1,4 @@
+<DOC>
+<DOCNO> http://www.cs.purdue.edu/homes/spa/Compression/dc/banner_05/view.html </DOCNO>
+<HTML> <HEAD> <TITLE>2D-PMC/JPEG Comparison</TITLE> </HEAD> <body bgcolor="#FFFFFF" text="#000000" link="#00FF00" vlink="#00FFFF"> <p align="center">2D-PMC</p> <p align="center"><img src="pm.gif" width="433" height="61"></p> <div align="center"><center> <table border="5"> <tr> <td>Compression ratio</td> <td>15.99 (0.500 bpp)</td> </tr> <tr> <td>PSNR</td> <td>45.77 dB</td> </tr> </table> </center></div> <p align="center">JPEG</p> <p align="center"><img src="jpg.gif" width="433" height="61"></p> <div align="center"><center> <table border="5"> <tr> <td>Compression ratio</td> <td>15.87 (0.504 bpp)</td> </tr> <tr> <td>PSNR</td> <td>24.46 dB</td> </tr> </table> </center></div> </HTML> </HTML>
+</DOC>

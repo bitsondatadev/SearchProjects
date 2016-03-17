@@ -1,0 +1,4 @@
+<DOC>
+<DOCNO> http://www.cs.purdue.edu/about_us/annual_reports/98/funding/axa_fund.html </DOCNO>
+<HTML> <HEAD> <TITLE>Apostolico Funding</TITLE> </HEAD> <BODY BGCOLOR="WHITE"> <p> <!--500-1398-3272--> <b>Alberto Apostolico</b>. Algorithmic and Combinatorial Issues in Pattern Matching. National Science Foundation, 09/97&#151;08/99, $104,736. <P> <FONT COLOR="#ce9c33" SIZE="-1"> <A HREF="http://www.cs.purdue.edu/ar98" TARGET="_top"> <CENTER> 1998 <BR> Annual Research Report</A> <P> <A HREF="http://www.cs.purdue.edu" TARGET="_top">Department of <BR> Computer Sciences</A> </CENTER> </FONT> </BODY> </HTML> </HTML>
+</DOC>

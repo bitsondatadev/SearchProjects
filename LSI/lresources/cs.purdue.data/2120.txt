@@ -1,0 +1,4 @@
+<DOC>
+<DOCNO> http://www.cs.purdue.edu/upe/members/members-06.html </DOCNO>
+<HTML> <HEAD> <TITLE>Purdue'e UPE 2006 Members</TITLE> </HEAD> <BODY BGCOLOR="#ffffff" LINK="#0000ff" VLINK="#ff0000" ALINK="#00ff00" TEXT="#000000"> <H1>UPE Members Elected in 2006</H1> <H2>Students</H2> <DIR> <li>Win Mar Htay<li>Ashish Kundu<li>James F. Kupke<li>Yasin N. Laura Silva<li> Russell Kenneth Meyers<li>Mummoorthy Murugesan<li>Denny Onin<li>Gregory T. Ose</DIR> <HR> <A HREF = members.html>Back to Members</A> </BODY> </HTML> </HTML>
+</DOC>

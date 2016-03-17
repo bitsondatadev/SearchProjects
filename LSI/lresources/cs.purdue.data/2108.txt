@@ -1,0 +1,4 @@
+<DOC>
+<DOCNO> http://www.cs.purdue.edu/about_us/annual_reports/98/faculty/anderson/anderson_toc.html </DOCNO>
+<HTML> <HEAD> <TITLE>David Anderson</TITLE> </HEAD> <BODY BGCOLOR=BLACK TEXT=#CE9C33 LINK=#CE9C33 VLINK=#FFFFFF> <TABLE BORDER=0 ALIGN=CENTER> <TR> <TD ALIGN=CENTER VALIGN=MIDDLE><IMG SRC=http://www.cs.purdue.edu/ar98/images/redBulletLines.gif WIDTH=25 HEIGHT=11> <TD ALIGN=LEFT VALIGN=MIDDLE><A TARGET=main HREF=anderson_bio.html>Biography</A> </TABLE> <CENTER> &nbsp;<P> <A HREF=http://www.cs.purdue.edu/ar98 TARGET=_top>Annual Research Report</a> <P> <A HREF=http://www.cs.purdue.edu/ TARGET=_parent>Department&nbsp;of Computer Sciences</A> </CENTER> </BODY> </HTML> </HTML>
+</DOC>

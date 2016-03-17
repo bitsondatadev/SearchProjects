@@ -1,0 +1,4 @@
+<DOC>
+<DOCNO> http://www.cs.purdue.edu/about_us/annual_reports/98/faculty/wxg/wxg_title.html </DOCNO>
+<HTML> <HEAD> <TITLE>Gautschi</TITLE> </HEAD> <BODY BGCOLOR=WHITE TEXT=#CE9C33> <TABLE BORDER=0> <TR><TD ALIGN=CENTER VALIGN=MIDDLE><H2> Walter Gautschi </H2> <I> Professor of Computer Sciences and Mathematics (1963) <BR> Ph.D., Basel (Switzerland), 1953. </I></TD></TR> </TABLE> </BODY> </HTML> </HTML>
+</DOC>

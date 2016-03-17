@@ -1,0 +1,4 @@
+<DOC>
+<DOCNO> http://www.cs.purdue.edu/research/cse/scipad/rgrp.html </DOCNO>
+<TITLE>IntelliPad Research Group</TITLE> <H2>The merry bunch realizing IntelliPad</H2> <HR> <H3>Faculty</H3> <MENU> <LI> <A HREF="/people/joshi">Anupam Joshi</A> <LI> <A HREF="/people/saw">Sanjiva Weerawarana</A> <LI> <A HREF="/people/enh">Elias Houstis</A> </MENU> <HR> <H3>Graduate Students</H3> <MENU> <LI> <A HREF="/people/ttd">Tzvetan Todorov Drashansky</A> </MENU> </MENU>
+</DOC>

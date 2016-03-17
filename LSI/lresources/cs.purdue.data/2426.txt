@@ -1,0 +1,4 @@
+<DOC>
+<DOCNO> http://www.cs.purdue.edu/homes/ayg/CS590C/www/mathematica/math.html </DOCNO>
+<html> <head> <title> A Brief Introduction to Mathematica</title> </head> <h3> A Brief Introduction to Mathematica: </h3> <UL> <LI><A HREF="math02.html">Simple calculations</A> <LI><A HREF="math03.html">Plotting lists of points</A> <LI><A HREF="math04.html">Plotting functions</A> <LI><A HREF="math05.html">Combining two or more plots</A> <LI><A HREF="math06.html">Fitting data to polynomials</A> <LI><A HREF="math07.html">Generating and manipulating lists of numbers</A> <LI><A HREF="math08.html">Complex numbers</A> <LI><A HREF="math09.html">Derivatives and integrals</A> <LI><A HREF="math10.html">Special functions</A> <LI><A HREF="math11.html">Contour and surface plots</A> </UL> <HR> <HR>
+</DOC>

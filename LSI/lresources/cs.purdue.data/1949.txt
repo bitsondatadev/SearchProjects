@@ -1,0 +1,4 @@
+<DOC>
+<DOCNO> http://www.cs.purdue.edu/about_us/annual_reports/98/faculty/hosking/hosking_title.html </DOCNO>
+<HTML> <HEAD> <TITLE>Hosking</TITLE> </HEAD> <BODY BGCOLOR=WHITE TEXT=#CE9C33> <TABLE BORDER=0> <TR><TD ALIGN=CENTER VALIGN=MIDDLE><H2> Antony Hosking </H2> <I> Assistant Professor of Computer Science (1995) <BR> B.Sc., mathematical sciences, University of Adelaide, 1985, M.Sc., computer science, University of Waikato, 1987, Ph.D., computer science, University of Massachusetts, 1995. </I></TD></TR> </TABLE> </BODY> </HTML> </HTML>
+</DOC>

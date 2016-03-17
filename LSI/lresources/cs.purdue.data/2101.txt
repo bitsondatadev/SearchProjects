@@ -1,0 +1,4 @@
+<DOC>
+<DOCNO> http://www.cs.purdue.edu/about_us/annual_reports/98/faculty/wrd/wrd_title.html </DOCNO>
+<HTML> <HEAD> <TITLE>Dyksen</TITLE> </HEAD> <BODY BGCOLOR=WHITE TEXT=#CE9C33> <TABLE BORDER=0> <TR><TD ALIGN=CENTER VALIGN=MIDDLE><H2> Wayne R. Dyksen </H2> <I> Associate Professor of Computer Sciences (1984) <BR> B.A., mathematics, Calvin College, 1977; M.S., applied mathematics, Purdue University, 1979; Ph.D., applied mathematics, Purdue University, 1982. </I></TD></TR> </TABLE> </BODY> </HTML> </HTML>
+</DOC>

@@ -1,0 +1,4 @@
+<DOC>
+<DOCNO> http://www.cs.purdue.edu/about_us/annual_reports/98/funding/dec_fund.html </DOCNO>
+<HTML> <HEAD> <TITLE>Comer Funding</TITLE> </HEAD> <BODY BGCOLOR="WHITE"> <!--671-1398-2587--> <b>Douglas E. Comer</b>. Crosspoint: A Campus-Scale Wireless Internet. Intel, 01/96&#151;&#151;, $147,000. <p> <!--673-1398-1403--> <b>Douglas E. Comer</b> Software Practice and Experience. John Wiley and Sons Limited and Intel Corporation, 11/87&#151;12/98, $366,524. <P> <FONT COLOR="#ce9c33" SIZE="-1"> <A HREF="http://www.cs.purdue.edu/ar98" TARGET="_top"> <CENTER> 1998 <BR> Annual Research Report</A> <P> <A HREF="http://www.cs.purdue.edu" TARGET="_top">Department of <BR> Computer Sciences</A> </CENTER> </FONT> </BODY> </HTML> </HTML>
+</DOC>

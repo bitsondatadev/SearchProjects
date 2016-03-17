@@ -1,0 +1,4 @@
+<DOC>
+<DOCNO> http://www.cs.purdue.edu/about_us/annual_reports/98/faculty/bjl/bjl_title.html </DOCNO>
+<HTML> <HEAD> <TITLE>Lucier</TITLE> </HEAD> <BODY BGCOLOR=WHITE TEXT=#CE9C33> <TABLE BORDER=0> <TR><TD ALIGN=CENTER VALIGN=MIDDLE><H2> Bradley J. Lucier </H2> <I> Professor of Mathematics and Computer Sciences (1981) <BR> B.Sc. (Hon.), mathematics, University of Windsor, 1976; S.M., applied mathematics, University of Chicago, 1978; Ph.D., applied mathematics, University of Chicago, 1981. </I></TD></TR> </TABLE> </BODY> </HTML> </HTML>
+</DOC>

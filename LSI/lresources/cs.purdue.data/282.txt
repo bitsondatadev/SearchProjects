@@ -1,0 +1,4 @@
+<DOC>
+<DOCNO> http://www.cs.purdue.edu/about_us/annual_reports/97/facilities/labs/persistence.html </DOCNO>
+<title>Persistent Programming Systems Lab </title> <head> <body> <TABLE> <tr> <td> <!-- IMG ALIGN = TOP SRC=".gif"--> </td> <td> <h1> Persistent Programming Systems Lab </h1> </td> </tr> </table> <img src="goldRule.gif" width=100%> <p> The Persistent Programming Systems Research Group has interests in the following areas: <UL> <li> programming language design and implementation <li> compilation, interpretation, and optimization <li> run-time systems (e.g., garbage collection) <li> object-oriented database systems <li> database and persistent programming languages and systems <li> experimental performance evaluation of prototype systems </ul> <P> Current projects include "COMPASS: Compiling with Persistence" and "Optimizing Orthogonal Persistence for Java". <p> <img src="goldRule.gif" width=100%> </body> </html> </html>
+</DOC>

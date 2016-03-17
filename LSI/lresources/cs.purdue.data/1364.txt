@@ -1,0 +1,4 @@
+<DOC>
+<DOCNO> http://www.cs.purdue.edu/homes/lsi/CI_Recom/CI_Recom.html </DOCNO>
+<html> <head> <title>Federated_Search</title> </head> <frameset cols="201,*" border=0 frameborder="0" framespacing=0 bgcolor="#FFFFFF"> <frame src="side-menu.html" name="sidemenu" scrolling="auto"> <frame src="entry.html" name="main" scrolling="auto"> <noframes> <body> </body> </noframes> </frameset> <frameset> </frameset> </frameset> </html> </html>
+</DOC>

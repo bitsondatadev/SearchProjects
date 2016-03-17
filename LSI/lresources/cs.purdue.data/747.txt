@@ -1,0 +1,4 @@
+<DOC>
+<DOCNO> http://www.cs.purdue.edu/about_us/annual_reports/98/publications/rel.html </DOCNO>
+<HTML><BODY> <P> I. M. Boier-Martin, D. C. Marinescu, R. E. Lynch, and T. S. Baker. Identification of Spherical Virus Particles in Digitized Images of Entire Electron Micrographs. <em>Journal of Structural Biology</em>, 120:146-157, December 1997. <p> </BODY></HTML> </BODY></HTML>
+</DOC>

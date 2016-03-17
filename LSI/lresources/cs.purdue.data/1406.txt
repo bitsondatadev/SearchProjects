@@ -1,0 +1,4 @@
+<DOC>
+<DOCNO> http://www.cs.purdue.edu/news/announce/2003/11/25-spaf.shtml.LCK </DOCNO>
+Nickolas Hirschberg||nick@purdue.edu
+</DOC>

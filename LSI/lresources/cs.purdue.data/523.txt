@@ -1,0 +1,4 @@
+<DOC>
+<DOCNO> http://www.cs.purdue.edu/about_us/annual_reports/98/publications/guerra.html </DOCNO>
+<HTML><BODY> <P> C. Guerra, V. Cantoni, L. Cinque, S. Levialdi, and L. Lombardi. 2D Object Recognition by Multiscale Tree Matching. <em>Pattern Recognition</em>, 31(10):1443-1454, 1998. <p> C. Guerra. 2D Object Recognition on a Reconfigurable Mesh. <em>Pattern Recognition</em>, 31(1):83-88, 1998. <p> </BODY></HTML> </BODY></HTML>
+</DOC>

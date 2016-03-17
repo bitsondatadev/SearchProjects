@@ -1,0 +1,4 @@
+<DOC>
+<DOCNO> http://www.cs.purdue.edu/about_us/annual_reports/98/facilities/labs/g56_lab.html </DOCNO>
+<HTML> <HEAD> <TITLE>CS G056 Lab</TITLE> </HEAD> <BODY BGCOLOR="WHITE"> <FONT COLOR="#CE9C33"><H2>CS G056 Lab</H2></FONT> Composed of 24 Intel Pentium PCs running Solaris, the Undergraduate lab in CS G056 is intended to provide undergraduate students with the resources necessary to effectively utilize their CS Undergraduate accounts. These machines make available most of the wide array of software available throughout the department, including editors, compilers, WWW browsers, mail readers, and news readers. <P> <FONT COLOR="#ce9c33" SIZE="-1"> <A HREF="http://www.cs.purdue.edu/ar98" TARGET="_top"> <CENTER> 1998 <BR> Annual Research Report</A> <P> <A HREF="http://www.cs.purdue.edu" TARGET="_top">Department of <BR> Computer Sciences</A> </CENTER> </FONT> </BODY> </HTML> </HTML>
+</DOC>

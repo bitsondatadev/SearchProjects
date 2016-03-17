@@ -1,0 +1,4 @@
+<DOC>
+<DOCNO> http://www.cs.purdue.edu/homes/cs490t/projects/virtual-tour/production/production.html </DOCNO>
+<!-- saved from url=(0013)about:internet --> <html lang="en"> <head> <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> <META HTTP-EQUIV="Pragma" CONTENT="no-cache"> <META HTTP-EQUIV="Expires" CONTENT="-1"> <title>virtual-tour</title> </head> <frameset rows="600,400,*" frameborder="no" border="0" framespacing="0"> <frame src="pano-browser.html" name="panoBrowser" scrolling="Yes" id="panoBrowser" title="panoBrowser" /> <frame src="map-browser.html" name="mapBrowser" id="mapBrowser" title="mapBrowser" /> </frameset> <noframes><body> You need frames </body> </noframes></html> </noframes></html>
+</DOC>

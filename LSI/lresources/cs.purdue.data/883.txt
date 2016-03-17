@@ -1,0 +1,4 @@
+<DOC>
+<DOCNO> http://www.cs.purdue.edu/about_us/annual_reports/98/faculty/jms/jms_title.html </DOCNO>
+<HTML> <HEAD> <TITLE>Steele</TITLE> </HEAD> <BODY BGCOLOR=WHITE TEXT=#CE9C33> <TABLE BORDER=0> <TR><TD ALIGN=CENTER VALIGN=MIDDLE><H2> John M. Steele </H2> <I> Associate Professor of Computer Sciences and Director of the University Computing Center (1963) <BR> M.S., Purdue University, 1965. </I></TD></TR> </TABLE> </BODY> </HTML> </HTML>
+</DOC>

@@ -1,0 +1,4 @@
+<DOC>
+<DOCNO> http://www.cs.purdue.edu/about_us/annual_reports/98/faculty/rel/rel_bio.html </DOCNO>
+<HTML> <HEAD> <TITLE>Lynch</TITLE> </HEAD> <BODY BGCOLOR="WHITE"> Professor Lynch has held positions at Brookhaven National Laboratory, Los<BR>Alamos Laboratories, Wright-Patterson Air Force Base, the University of Texas, and General Motors Research Laboratories. Areas of his research include differential equations, linear algebra, software for solving elliptic partial differential equations, and computational biology. He and G. Birkhoff have written the monograph <EM>Numerical Solutions of Elliptic Problems</EM>, SIAM Publications, 1985. <P> </BODY> </HTML> </HTML>
+</DOC>

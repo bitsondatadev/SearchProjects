@@ -1,0 +1,4 @@
+<DOC>
+<DOCNO> http://www.cs.purdue.edu/about_us/annual_reports/96/research/dps.html </DOCNO>
+<!DOCTYPE HTML PUBLIC -//AS//DTD HTML 3.0 asWedit + extensions//EN> <HTML> <BODY> <TITLE>Data Processing Suite</TITLE> <H1>Data Processing Suite</H1> Principal Investigators: Ingo Steller, <a href="../faculty/dcm.html">Dan C. Marinesu</a><p> Research Associate: K. C. VanZandt<p> Sponsor: NSF<p> <img src="goldRule.gif" width=100%><p> DPS will combine the programs for the processing of area detector data from macromolecular diffraction experiments written at the Biological Sciences Department, Purdue University under a graphical user interface. Additionally, we intend to parallize some of these programs. <P> <img src="goldRule.gif" width=100%><p> </BODY> </HTML> </HTML>
+</DOC>

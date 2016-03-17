@@ -1,0 +1,4 @@
+<DOC>
+<DOCNO> http://www.cs.purdue.edu/homes/hosking/352/project/ </DOCNO>
+<!DOCTYPE doctype PUBLIC "-//w3c//dtd html 4.0 transitional//en"> <html> <head> <meta content="text/html; charset=iso-8859-1" http-equiv="Content-Type"> <meta content="Antony Hosking" name="Author"> <title>CS352 Programming Assignments</title> </head> <body> <h1> Project</h1> <ul> <li><a href="project0.html">Preliminaries</a></li> </ul> <ol> <!-- <li><a href="project1.html">Lexical Analysis: CJ scanner</a></li> --> <!-- <li><a href="project2.html">Syntactic Analysis: M3 parser</a></li> --> <!-- <li><a href="project3.html">Semantic Analysis: M3 type-checking</a></li> --> <!-- <li><a href="project4.html">Synthesis: translation to intermediate code</a></li> --> <!-- <li><a href="project5.html">Instruction Selection</a></li> --> </ol> <br> <br> </body> </html> </html>
+</DOC>

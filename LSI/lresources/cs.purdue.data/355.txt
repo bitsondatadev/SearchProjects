@@ -1,0 +1,4 @@
+<DOC>
+<DOCNO> http://www.cs.purdue.edu/homes/rego/ </DOCNO>
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN"> <html> <head> <title>Vernon Rego's Web Page</title> </head> <body> <h1>Vernon Rego's Web Page</h1> <ul> <li><A HREF="/research/PaCS/PaCS.html">PacsLab</A> Homepage <li><a href="cs543/">CS 543</a> <li><a href="cs381/">CS 381</a> <li><a href="cs240/">CS 240</a> </ul> </ul> <hr> <! <address><a href="mailto:rego@cs.purdue.edu">Vernon Rego</a></address>> <!-- Created: Sun Aug 23 16:57:33 EST 1998 --> <!-- hhmts start --> Last modified: Mon Aug 25 11:44:16 EST 2003 <!-- hhmts end --> </body> </html> </html>
+</DOC>

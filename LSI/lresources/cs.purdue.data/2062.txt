@@ -1,0 +1,4 @@
+<DOC>
+<DOCNO> http://www.cs.purdue.edu/about_us/annual_reports/98/faculty/gnf/gnf_title.html </DOCNO>
+<HTML> <HEAD> <TITLE>Frederickson</TITLE> </HEAD> <BODY BGCOLOR=WHITE TEXT=#CE9C33> <TABLE BORDER=0> <TR><TD ALIGN=CENTER VALIGN=MIDDLE><H2> Greg N. Frederickson </H2> <I> Professor of Computer Sciences (1982) <BR> A.B., economics, Harvard University, 1969; M.S., computer science, University of Maryland, 1976; Ph.D., computer science, University of Maryland, 1977. </I></TD></TR> </TABLE> </BODY> </HTML> </HTML>
+</DOC>

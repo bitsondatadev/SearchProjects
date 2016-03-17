@@ -1,0 +1,4 @@
+<DOC>
+<DOCNO> http://www.cs.purdue.edu/about_us/annual_reports/98/funding/spaf_fund.html </DOCNO>
+<HTML> <HEAD> <TITLE>Spafford Funding</TITLE> </HEAD> <BODY BGCOLOR="WHITE"> <p> <!--530-1398-1433--> <b>Eugene H. Spafford</b>. Proposal on Autonomous Security Agents and Vulnerabilities Database. National Security Agency, 01/97&#151;09/99, $475,000. <p> <!--670-1398-3479--> Kihong Park and <b>Eugene H. Spafford</b>. ATM Network Security. Sprint, 01/96&#151;12/98, $215,000. <p> <!--671-1398-2768--> <b>Eugene H. Spafford</b>. Coast Labs. Multisponsored, 10/96&#151;&#151;, $500,774. <P> <FONT COLOR="#ce9c33" SIZE="-1"> <A HREF="http://www.cs.purdue.edu/ar98" TARGET="_top"> <CENTER> 1998 <BR> Annual Research Report</A> <P> <A HREF="http://www.cs.purdue.edu" TARGET="_top">Department of <BR> Computer Sciences</A> </CENTER> </FONT> </BODY> </HTML> </HTML>
+</DOC>

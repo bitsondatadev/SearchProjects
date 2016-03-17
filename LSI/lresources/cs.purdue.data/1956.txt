@@ -1,0 +1,4 @@
+<DOC>
+<DOCNO> http://www.cs.purdue.edu/about_us/annual_reports/98/faculty/guerra/guerra_bio.html </DOCNO>
+<HTML> <HEAD> <TITLE>Concettina Guerra</TITLE> </HEAD> <BODY BGCOLOR="WHITE"> <p> Professor Guerra's research interests are in the area of computer vision, image processing and computational biology. She is currently working on the design and implementation of efficient algorithms for object representation and recognition. She is also interested in the application of techniques developed for vision tasks to problems arising in computational biology. </BODY> </HTML> </HTML>
+</DOC>

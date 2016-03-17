@@ -1,0 +1,4 @@
+<DOC>
+<DOCNO> http://www.cs.purdue.edu/about_us/annual_reports/98/publications/yau.html </DOCNO>
+<HTML><BODY> <P> D. Yau and S. S. Lam. Migrating Sockets&#151;End System Support for Networking with Quality of Service Guarantees. <em>IEEE/ACM Transactions on Networking</em>, 6(6), December 1998. <p> D. Yau and S. S. Lam. Operating System Techniques for Distributed Multimedia. <em>International Journal of Intelligent Systems</em>, 13(12):1175-1200, December 1998. Special issue on Multimedia Computing Systems.<p> D. Yau and S. S. Lam. Migrating Sockets for Networking with Quality of Service Guarantees. In <em>Proceedings of the IEEE International Conference on Network Protocols</em>, Atlanta, Georgia, October 1997. <p> </BODY></HTML> </BODY></HTML>
+</DOC>

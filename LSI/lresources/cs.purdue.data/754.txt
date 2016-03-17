@@ -1,0 +1,4 @@
+<DOC>
+<DOCNO> http://www.cs.purdue.edu/homes/jean/ </DOCNO>
+<!-- Changed by: Doug Crabill, 20-Jan-1994 --> <HR> <UL> <LI><B> <A HREF="http://www.cs.purdue.edu/corp">Corporate Relations</A> </LI> <P> <LI> <A HREF="http://www.cs.purdue.edu/corp/eNewsletters/">CS Corporate Partners Communications</A> </B> </LI> <UL> <P> <a href="http://news.uns.purdue.edu/discover.tree.html"> <img src="disc.purdue.jpg"></a> <HR> <HR>
+</DOC>

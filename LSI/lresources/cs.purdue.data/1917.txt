@@ -1,0 +1,4 @@
+<DOC>
+<DOCNO> http://www.cs.purdue.edu/about_us/annual_reports/98/faculty/sunil/sunil_bio.html </DOCNO>
+<HTML> <HEAD> <TITLE>Prabhakar</TITLE> </HEAD> <BODY BGCOLOR="WHITE"> Dr. Prabhakar's research focuses on issues in large-scale, distributed applications such as multimedia databases, data warehouses, and digital libraries. The efficient execution of I/O is a critical problem for these applications. He is currently developing techniques that improve I/O performance for traditional and multimedia databases. He has developed declustering algorithms for multidimensional data that result in increased parallel I/O scheduling algorithms for robotic removable media libraries. Dr. Prabhakar's interest also lies in the design and development of digital libraries for the management and study of scientific research data. Prior to joining Purdue, Dr. Prabhakar held a position with Tata Unisys Ltd. from 1990 to 1994. </BODY> </HTML> </HTML>
+</DOC>

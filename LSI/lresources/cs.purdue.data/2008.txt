@@ -1,0 +1,4 @@
+<DOC>
+<DOCNO> http://www.cs.purdue.edu/about_us/annual_reports/98/faculty/ake/ake_title.html </DOCNO>
+<HTML> <HEAD> <TITLE>Elmagarmid</TITLE> </HEAD> <BODY BGCOLOR=WHITE TEXT=#CE9C33> <TABLE BORDER=0> <TR><TD ALIGN=CENTER VALIGN=MIDDLE><H2> Ahmed K. Elmagarmid </H2> <I> Professor of Computer Sciences (1988) <BR> B.S., computer science, University of Dayton, 1977; M.S., computer and information science, The Ohio State University, 1981; Ph.D., 1985. </I></TD></TR> </TABLE> </BODY> </HTML> </HTML>
+</DOC>

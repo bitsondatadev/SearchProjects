@@ -1,0 +1,4 @@
+<DOC>
+<DOCNO> http://www.cs.purdue.edu/about_us/annual_reports/98/funding/rel_fund.html </DOCNO>
+<HTML> <HEAD> <TITLE>Lynch Funding</TITLE> </HEAD> <BODY BGCOLOR="WHITE"> <p> <!--500-1398-3001--> Dan C. Marinescu and <b>Robert E. Lynch</b>. Parallel and Distributed Computing for Solving Large Structural Biology Problems. National Science Foundation, 09/95&#151;08/99, $1,960,000. <P> <FONT COLOR="#ce9c33" SIZE="-1"> <A HREF="http://www.cs.purdue.edu/ar98" TARGET="_top"> <CENTER> 1998 <BR> Annual Research Report</A> <P> <A HREF="http://www.cs.purdue.edu" TARGET="_top">Department of <BR> Computer Sciences</A> </CENTER> </FONT> </BODY> </HTML> </HTML>
+</DOC>

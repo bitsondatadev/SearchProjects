@@ -1,0 +1,4 @@
+<DOC>
+<DOCNO> http://www.cs.purdue.edu/about_us/annual_reports/98/faculty/jorg/jorg_title.html </DOCNO>
+<HTML> <HEAD> <TITLE>Peters</TITLE> </HEAD> <BODY BGCOLOR=WHITE TEXT=#CE9C33> <TABLE BORDER=0> <TR><TD ALIGN=CENTER VALIGN=MIDDLE><H2> J&ouml;rg Peters </H2> <I> Associate Professor of Computer Sciences (1997) <BR> Ph. D., University of Wisconsin-Madison, 1990 </I></TD></TR> </TABLE> </BODY> </HTML> </HTML>
+</DOC>

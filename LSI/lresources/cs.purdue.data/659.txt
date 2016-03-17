@@ -1,0 +1,4 @@
+<DOC>
+<DOCNO> http://www.cs.purdue.edu/about_us/annual_reports/98/publications/ram.html </DOCNO>
+<HTML><BODY> <P> S. Abhyankar. Local Fundamental Groups of Algebraic Varieties. <em>Proceedings of the American Mathematical Society</em>, 125:1635-1641, 1997. <p> S. Abhyankar. Projective Polynomials. <em>Proceedings of the American Mathematical Society</em>, 125:1643-1650, 1997. <p> S. Abhyankar and G. S. Sundaram. Galois Theory of Moore-Carlitz-Drinfeld Modules. <em>C. R. Acad. Sci. Paris</em>, 325:349-353, 1997. <p> S. Abhyankar. Hilbert's Thirteenth Problem. <em>Proceedings of the 1995 Franco-Belgian Conference in Reims</em>, 2:1-11, Societe Mathematique de France, Seminaires et Congres, 1997. <p> </BODY></HTML> </BODY></HTML>
+</DOC>

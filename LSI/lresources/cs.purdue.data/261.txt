@@ -1,0 +1,4 @@
+<DOC>
+<DOCNO> http://www.cs.purdue.edu/about_us/annual_reports/97/publications/young.html </DOCNO>
+<HTML><BODY> <h1>Publications of M. Young for the 1997 Annual Report</h1> <h3>September 1996 to December 1997</h3> <P> <IMG SRC="goldRule.gif" width =100%> <P> <a href="http://www.cs.purdue.edu/ faculty/young.html"> M. Young Biographical Information </a><p> <a href="http://www.cs.purdue.edu/ people/young"> M. Young Homepage </a><p> <IMG SRC="goldRule.gif" width =100%><P> </BODY></HTML> </BODY></HTML>
+</DOC>

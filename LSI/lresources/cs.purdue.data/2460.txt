@@ -1,0 +1,4 @@
+<DOC>
+<DOCNO> http://www.cs.purdue.edu/homes/ci/draft/contract.html </DOCNO>
+<html><body> <body bgcolor="#ffffff"> Copyright IEEE, 2004. Personal use of this material is permitted. However, permission to reprint/republish this material for advertising or promotional purposes or for creating new collective works for resale or redistribution to servers or lists, or to reuse any copyrighted component of this work in other works must be obtained from the IEEE. <br><br> Yonghua Ding and Zhiyuan Li, <a href="contract.pdf"> ``Improving Data Locality by Array Contraction'' </a> (.pdf) (Preprint), to appear in <i> IEEE Transactions on Computer </> </body> </html> </html>
+</DOC>

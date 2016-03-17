@@ -1,0 +1,4 @@
+<DOC>
+<DOCNO> http://www.cs.purdue.edu/homes/cs490t/projects/bus-system/ </DOCNO>
+<h1> Lafayette Bus System</h1> <h2>Author: Zack Golden</h2> <h2> Full sources availiable at </h2> <a href="http://code.google.com/p/lafayette-bus-system/">Git Repository</a> <h2>APK is availible</h2> <a href="http://lafayette-bus-system.googlecode.com/files/Lafayette%20Bus%20System.apk">here</a> href="http://lafayette-bus-system.googlecode.com/files/Lafayette%20Bus%20System.apk">here</a>
+</DOC>

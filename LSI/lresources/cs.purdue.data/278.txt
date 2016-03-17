@@ -1,0 +1,4 @@
+<DOC>
+<DOCNO> http://www.cs.purdue.edu/about_us/annual_reports/97/facilities/labs/ellpack.html </DOCNO>
+<title>ELLPACK-PDELab</title> <head> <body> <h1> ELLPACK-PDELab </h1> <img src="goldRule.gif" width=100%> <p> ELLPACK is a very high-level language developed at Purdue for the numerical solution of elliptic partial differential equations. The laboratory supports the development of extensions of ELLPACK as well as research in scientific computing in general. The principal extension is PDELab which provides a problem solving environment for general partial differential equations and solutions on parallel computers. Color graphics workstations are used in developing and implementing innovative approaches to interactive scientific computing. All of the laboratory equipment is networked to the SoftLab facilities as well as to the general departmental facilities.<p> <img src="goldRule.gif" width=100%> </body> </html> </html>
+</DOC>

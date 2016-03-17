@@ -1,0 +1,4 @@
+<DOC>
+<DOCNO> http://www.cs.purdue.edu/homes/ayg/CS251_FALL_99/ASSN_99/hw7/hw7.html </DOCNO>
+<html> <head> <title>Data Structures Homework 7, Fall 1999</title> </head> <body bgcolor="#FFFFFF"> <font align = left face = helvetica> <h1>Data Structures Homework 7, Fall 1999</h1> <h2>Due: Dec 1, 1999, In class (12:30 PM) </h2> Absolutely no late submissions accepted since solutions will be posted soon after the deadline. <br> <br> Answer the following questions from your text: <ul> <li> R7.9, R7.11, R7.12 <li> C7.4, C7.6, C7.9 <li> R13.3, R13.5, R13.6, R13.7 </ul> </body></html> </body></html>
+</DOC>

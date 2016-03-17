@@ -1,0 +1,4 @@
+<DOC>
+<DOCNO> http://www.cs.purdue.edu/about_us/annual_reports/98/publications/cmh.html </DOCNO>
+<HTML><BODY> <P> C. M. Hoffmann and R. Joan-Arinyo. On User-Defined Features. In <em>CAD 30</em>, 1998. <p> C. M. Hoffmann and R. Joan-Arinyo. CAD and the Product Master Model. In <em>CAD 30</em>, pages 905-919, 1998. <p> C. M. Hoffmann, A. Lomonosov, and M. Sitharam. Finding Solvable Subsets of Constraint Graphs. In G. Smolka, editor, <em>Lecture Notes of Computer Science</em>, 1330:463-477, Springer, 1997. <p> C. M. Hoffmann, A. Lomonosov, and M. Sitharam. A Fast Algorithm for Finding Minimal Dense Subgraphs and Applications to Geometric Constraint Solving. In <em>Constraint Programming '97</em>, October 1997. <p> </BODY></HTML> </BODY></HTML>
+</DOC>

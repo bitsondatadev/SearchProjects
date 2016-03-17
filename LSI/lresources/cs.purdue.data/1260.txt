@@ -1,0 +1,4 @@
+<DOC>
+<DOCNO> http://www.cs.purdue.edu/homes/wxg/birthday.html </DOCNO>
+<html> <head><title>80th Birthday Celebration</title></head> <body bgcolor="#ffffff"> <H2>80th Birthday Celebration</H2> <DL> <DD><A HREF="WG80.pdf">WG80.pdf</A><BR> <DD><A HREF="WG80_years.avi">WG80_years.avi</A><P> </DL> </body> </html> </html>
+</DOC>

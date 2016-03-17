@@ -1,0 +1,4 @@
+<DOC>
+<DOCNO> http://www.cs.purdue.edu/homes/ayg/CS525_00/grades/final.html </DOCNO>
+<html> <body> <pre> Here are your final grades.. the first column is the last four digits of your student ID. There are a few missing ones. If yours is one of the missing ones, look up the first letter of your last name and it should match the letter in front of the question marks. Final grades are out of 100. The high is 87 and the low is 37. 4090 65 0682 85 7298 51 0349 46 0820 62 9632 75 I??? 71 2432 77 4060 54 4688 80 3543 49 8531 67 1302 38 P??? 51 4860 44 R??? 60 4443 71 6280 71 1148 74 9935 61 9842 61 9311 87 Z??? 78 2806 37 3819 56 </pre> </body> </html> </html>
+</DOC>
