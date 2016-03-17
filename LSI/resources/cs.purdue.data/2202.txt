@@ -1,0 +1,4 @@
+<DOC>
+<DOCNO> http://www.cs.purdue.edu/homes/dec/tcpip3t.errata.html </DOCNO>
+<HTML> <HEAD> <TITLE> Errata for TCP/IP Volume 3 </TITLE> </HEAD> <BODY> <H2> Internetworking With TCP/IP Volume 3 (TLI Version) </H2> <BR> <NL> Page 387, fsminit.c <UL> Incorrect initialization of ``invalid'' states of the finite state. Although there is no way to reach these states, the intention was to initialize the entries to abort. Change the loop to use a new index, ti2 as in the following: <BR> <BR> <PRE WIDTH=66> /* set all uninitialized indices to an invalid transition */ for (cn=0; cn&lt;NCHRS; ++cn) for (ti2=0; ti2&lt;nstates; ++ti2) if (fsm[ti2][cn] == TINVALID) fsm[ti2][cn] = ti; </PRE> </UL> <BR> <BR> <H4><A HREF="netbooks.html#vol3.tli">Return to list of Comer's networking books</A></H4> <BR> <H4><A HREF="http://www.cs.purdue.edu/people/comer">Return to Comer's homepage</A></H4> </BODY> </HTML> </HTML>
+</DOC>

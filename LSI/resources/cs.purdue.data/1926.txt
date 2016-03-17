@@ -1,0 +1,4 @@
+<DOC>
+<DOCNO> http://www.cs.purdue.edu/about_us/annual_reports/98/faculty/palsberg/palsberg_bio.html </DOCNO>
+<HTML> <HEAD> <TITLE>Palsberg</TITLE> </HEAD> <BODY BGCOLOR="WHITE"> Professor Palsberg's main research interests are programming languages, compilers, and software engineering. He received a National Science Foundation Faculty Early Career Development Award in 1998. He is a member of the editorial boards of <i>IEEE Transactions on Software Engineering</i> and <i>Theory and Practice of Object Systems</i>. He has been a member of many program committees for international conferences, including <i>IEEE Symposium on Logic in Computer Science</i>, <i>ACM Symposium on the Foundations of Software Engineering</i>, and <i>European Conference on Object-Oriented Programming</i>. His 1994 book with Michael Schwartzbach is entitled <i>Object-oriented Type Systems</i>. </BODY> </HTML> </HTML>
+</DOC>

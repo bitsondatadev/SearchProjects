@@ -1,0 +1,4 @@
+<DOC>
+<DOCNO> http://www.cs.purdue.edu/homes/ci/draft/ispass04.html </DOCNO>
+<html><body> <body bgcolor="#ffffff"> Copyright IEEE, 2004. Personal use of this material is permitted. However, permission to reprint/republish this material for advertising or promotional purposes or for creating new collective works for resale or redistribution to servers or lists, or to reuse any copyrighted component of this work in other works must be obtained from the IEEE. <br><br> Rong Xu and Zhiyuan Li, <a href="ispass04.pdf"> ``Using Cache Mapping to Improve Memory Performance of Handheld Devices,'' </a> (.pdf) (Preprint), to appear in <a href="http://www.ispass.org"> <i> Proceedings of The 4th IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS-2004) </i>, </a> March 10 -12, 2004, Austin, Texas, USA </body> </html> </html>
+</DOC>

@@ -1,0 +1,4 @@
+<DOC>
+<DOCNO> http://www.cs.purdue.edu/about_us/annual_reports/98/faculty/anderson/anderson_bio.html </DOCNO>
+<HTML> <HEAD> <TITLE>David C. Anderson</TITLE> </HEAD> <BODY BGCOLOR="WHITE"> <p> Professor Anderson conducts research and teaches in the areas of computer-aided design, computer graphics and mechanical engineering design. His research focuses on problems in intelligent manufacturing systems, computer-aided engineering, design environments, high level shape representation, geometric modeling, and geometric reasoning. <P> He is currently deputy director and co-principal investigator of the National Science Foundation Engineering Research Center (ERC) for Collaborative Manufacturing, and chairman of the Mechanical Engineering Design Area. He is a member of the editorial boards of the <I>Journal of Research in Engineering Design</I> and the <I>Journal of Design and Manufacturing</I>. <P> Dr. Anderson is a Fellow of the ASME.<P> </BODY> </HTML> </HTML>
+</DOC>

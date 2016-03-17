@@ -1,0 +1,4 @@
+<DOC>
+<DOCNO> http://www.cs.purdue.edu/homes/apm/courses/CS490M-fall06/ </DOCNO>
+<html> <head> <meta http-equiv="content-type" content="text/html;charset=iso-8859-1"> <meta name="generator" content="Adobe GoLive 4"> <title>CS 490M Software Testing</title> </head> <frameset cols="28%,*" bordercolor="#990000" framespacing="7" border="7" frameborder="yes"> <frame src="toc.html" name="Navigator"> <frame src="objectives.html" name="Contents"> </frameset> <noframes> <body bgcolor="#cccccc"> </body> </noframes> </html> </html>
+</DOC>

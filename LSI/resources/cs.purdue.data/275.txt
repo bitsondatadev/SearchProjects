@@ -1,0 +1,4 @@
+<DOC>
+<DOCNO> http://www.cs.purdue.edu/about_us/annual_reports/97/facilities/labs/cs175.html </DOCNO>
+<title>CS 175 Laboratory</title> <head> <body> <h1> CS 175 Lab </h1> <img src="goldRule.gif" width=100%> <p> The CS175 Lab consists of 15 Intel machines running Windows NT 4.0. This computer laboratory is used by graduate and undergraduate groups for a variety of class projects, including computer graphics, networking, user interface design and operating systems projects. Its use is reserved for students enrolled in classes scheduled for using the lab. The software available in the lab includes C/C++, Basic and Java compilers, office applications, graphical design programs and mathematical analysis software, among others.<p> <img src="goldRule.gif" width=100%> </body> </html> </html>
+</DOC>

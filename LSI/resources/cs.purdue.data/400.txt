@@ -1,0 +1,4 @@
+<DOC>
+<DOCNO> http://www.cs.purdue.edu/homes/dxu/friends.html </DOCNO>
+<html> <head> <meta http-equiv="REFRESH" content="2; URL=http://friends.cs.purdue.edu"> <title>Virtualization Research (Virtual Machines/Networks/Infrastructures) at Purdue University</title> </head> <body bgcolor="#FFFFFF" text="#000000"> <p> The Lab FRIENDS web site has moved to a virtual machine (VM)! You will automatically be redirected in 2 seconds. If your browser doesn't automatically reload, click <a href="http://friends.cs.purdue.edu">HERE</a>. </body> </html> </html>
+</DOC>

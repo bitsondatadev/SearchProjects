@@ -1,0 +1,4 @@
+<DOC>
+<DOCNO> http://www.cs.purdue.edu/about_us/annual_reports/98/faculty/jorg/jorg_bio.html </DOCNO>
+<HTML> <HEAD> <TITLE>Peters</TITLE> </HEAD> <BODY BGCOLOR="WHITE"> Dr. Peters is interested in representing and analyzing geometry on the computer. He has developed new tools for free-form modeling, a design that can be viewed as a language for describing geometric entities, curves and surfaces, in a succinct form. Efficient, exact representation of geometry is fundamental to scientific visualization, animation and graphics, virtual reality, virtual prototyping of manufacturable objects, etc. For examples, please see <a href="http://www.cs.purdue.edu/homes/jorg/res.html" TARGET="_top"> http://www.cs.purdue.edu/homes/jorg/res.html</a>. <P> In 1994, Dr. Peters was honored with a five year National Young Investigator Award. In 1991 and 1992 he held positions at the IBM T. J. Watson Research Center and Rensselaer Polytechnic Institute. </BODY> </HTML> </HTML>
+</DOC>

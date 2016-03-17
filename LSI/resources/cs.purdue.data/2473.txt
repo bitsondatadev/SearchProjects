@@ -1,0 +1,4 @@
+<DOC>
+<DOCNO> http://www.cs.purdue.edu/homes/cs490t/projects/vncr/ </DOCNO>
+<html> <head> <title>VNCR</title> </head> <body> <h1>VNCR</h1> <ul> <li><a href="project-web-page.html">Project webpage</a></li> <li><a href="http://vncr.sourceforge.net">Sourceforge webpage</a><br> Do not use the code on sourceforge, it is out of date. Instead use the subversion repository on lore.</li> </ul> </body> </html> </html>
+</DOC>

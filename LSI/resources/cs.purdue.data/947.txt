@@ -1,0 +1,4 @@
+<DOC>
+<DOCNO> http://www.cs.purdue.edu/about_us/annual_reports/98/faculty/sutinen/sutinen_bio.html </DOCNO>
+<HTML> <HEAD> <TITLE>Sutinen</TITLE> </HEAD> <BODY BGCOLOR="WHITE"> Dr. Sutinen's research interests involve string algorithms and their analysis, especially in the area of approximate pattern matching, algorithm animation, computer science education, and computer uses in education, especially in problem-based learning and special needs education. Currently, he works on problems related to the occurrence distribution of pattern sets, defined by a given condition. He is a member of a research group which has designed Jeliot, a WWW application which animates a Java program given by the user. </BODY> </HTML> </HTML>
+</DOC>

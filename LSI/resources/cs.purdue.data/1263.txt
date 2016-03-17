@@ -1,0 +1,4 @@
+<DOC>
+<DOCNO> http://www.cs.purdue.edu/homes/wxg/books.html </DOCNO>
+<html> <head><title>Books by Walter Gautschi</title></head> <body bgcolor="#ffffff"> <H2>Books by Walter Gautschi</H2> <DL> <DD>Walter Gautschi, ``Numerical Analysis: An Introduction'', Birkh&#228user, Boston, 1997<BR> <DD><A HREF="correctionsNA.ps">CorrectionsNA.ps</A><BR> <DD><A HREF="correctionsNA.pdf">CorrectionsNA.pdf</A><BR> <DD>Walter Gautschi, ``Orthogonal Polynomials: Computation and Approximation'', Oxford University Press, Oxford, 2004<BR> <DD><A HREF="correctionsOP.ps">CorrectionsOP.ps</A><BR> <DD><A HREF="correctionsOP.pdf">CorrectionsOP.pdf</A><BR> <DD>Emil A. Fellmann, ``Leonhard Euler'', Birkh&#228user, Basel, 2007<BR> <DD>Translated by Erika and Walter Gautschi<BR> <DD><A HREF="correctionsEULER.ps">CorrectionsEULER.ps</A><BR> <DD><A HREF="correctionsEULER.pdf">CorrectionsEULER.pdf</A><P> </DL> </body> </html> </html>
+</DOC>

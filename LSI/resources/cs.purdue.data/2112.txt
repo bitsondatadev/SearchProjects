@@ -1,0 +1,4 @@
+<DOC>
+<DOCNO> http://www.cs.purdue.edu/about_us/annual_reports/98/faculty/ram/ram_title.html </DOCNO>
+<HTML> <HEAD> <TITLE>Abhyankar</TITLE> </HEAD> <BODY BGCOLOR=WHITE TEXT=#CE9C33> <TABLE BORDER=0> <TR><TD ALIGN=CENTER VALIGN=MIDDLE><H2> Shreeram S. Abhyankar </H2> <I> Marshall Distinguished Professor of Mathematics, Professor of Computer Sciences and Industrial Engineering (1988) <BR> B.Sc., Bombay, 1951; A.M., Harvard, 1952; Ph.D., 1955 </I></TD></TR> </TABLE> </BODY> </HTML> </HTML>
+</DOC>

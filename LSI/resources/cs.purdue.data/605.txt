@@ -1,0 +1,4 @@
+<DOC>
+<DOCNO> http://www.cs.purdue.edu/homes/pmorgan/ </DOCNO>
+<HTML> <HEAD> <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=windows-1252"> <META NAME="Generator" CONTENT="Microsoft Word 97"> <TITLE>homepage</TITLE> <META NAME="Version" CONTENT="8.0.3410"> <META NAME="Date" CONTENT="10/11/96"> <META NAME="Template" CONTENT="C:Program FilesMicrosoft OfficeOfficeHTML.DOT"> </HEAD> <BODY TEXT="#000000" BGCOLOR="#ffffff"> <P>&nbsp;</P></BODY> </HTML> </HTML>
+</DOC>

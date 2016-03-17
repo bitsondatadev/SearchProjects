@@ -1,0 +1,4 @@
+<DOC>
+<DOCNO> http://www.cs.purdue.edu/research/cse/scipad/related.html </DOCNO>
+<TITLE>Other CSE projects</TITLE> <H2>Some Other CS&E projects </H2> <MENU> <LI> <A HREF="/research/cse/softlab/softlab.html"> The SoftLab Project</A> <LI> <A HREF="/research/cse/pdelab/pdelab.html">The PDELab Project</A> <LI> <A HREF="research/cse/pellpack/pellpack.html">The //ELLPACK project</A> </MENU> </MENU>
+</DOC>

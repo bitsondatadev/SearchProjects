@@ -1,0 +1,4 @@
+<DOC>
+<DOCNO> http://www.cs.purdue.edu/about_us/annual_reports/98/funding/gnf_fund.html </DOCNO>
+<HTML> <HEAD> <TITLE>Fredrickson Funding</TITLE> </HEAD> <BODY BGCOLOR="WHITE"> <!--500-1398-2713--> <b>Greg N. Frederickson</b>. Graph Algorithms and Data Structures. National Science Foundation, 06/94&#151;05/98, $197,784. <p> <!--500-1398-3395--> <b>Greg N. Frederickson</b>. Graph Algorithms and Data Structures. National Science Foudnation, 07/98&#151;06/01, $158,232. <p> <!--690-1398-2604--> <b>Greg N. Frederickson</b>. Measuring Robustness of Combinatorial Problems. Purdue Research Foundation, 06/96&#151;06/98, $22,706. <P> <FONT COLOR="#ce9c33" SIZE="-1"> <A HREF="http://www.cs.purdue.edu/ar98" TARGET="_top"> <CENTER> 1998 <BR> Annual Research Report</A> <P> <A HREF="http://www.cs.purdue.edu" TARGET="_top">Department of <BR> Computer Sciences</A> </CENTER> </FONT> </BODY> </HTML> </HTML>
+</DOC>

@@ -1,0 +1,4 @@
+<DOC>
+<DOCNO> http://www.cs.purdue.edu/homes/spa/Compression/dc/ </DOCNO>
+<html> <head> <title>frames</title> </head> <frameset rows="60, *" cols="*"> <frame name="title" src="title.html"> <frameset rows="*" cols="130, *"> <frame name="menu" src="menu.html"> <frame name="main" src="empty.html"> </frameset> </frameset> </html> </html>
+</DOC>

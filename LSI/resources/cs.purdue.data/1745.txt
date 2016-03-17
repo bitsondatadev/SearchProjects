@@ -1,0 +1,4 @@
+<DOC>
+<DOCNO> http://www.cs.purdue.edu/homes/spa/Compression/dc/lena_05/view.html </DOCNO>
+<HTML> <HEAD> <TITLE>Comprime/JPEG Comparison</TITLE> </HEAD> <body bgcolor="#FFFFFF" text="#000000" link="#00FF00" vlink="#00FFFF"> <p align="center">Comprime</p> <p align="center"><img src="pm.gif" width="512" height="512"></p> <div align="center"><center> <table border="5"> <tr> <td>Compression ratio</td> <td>16.36 (0.489bpp)</td> </tr> <tr> <td>PSNR</td> <td>29.30 dB</td> </tr> </table> </center></div> <p align="center">JPEG</p> <p align="center"><img src="jpg.gif" width="512" height="512"></p> <div align="center"><center> <table border="5"> <tr> <td>Compression ratio</td> <td>16.03 (0.499 bpp)</td> </tr> <tr> <td>PSNR</td> <td>32.87 dB</td> </tr> </table> </center></div> </body> </html> </html>
+</DOC>

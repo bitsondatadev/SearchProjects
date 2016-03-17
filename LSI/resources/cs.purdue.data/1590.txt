@@ -1,0 +1,4 @@
+<DOC>
+<DOCNO> http://www.cs.purdue.edu/research/cse/pdelabPPK/sponsors.html </DOCNO>
+<HEAD> <TITLE> PDELab Sponsors </TITLE> <BODY> <H1>The PDELab Sponsors</H1> <MENU> <LI>ARPA <LI>AFOSR <LI>NSF </MENU> </BODY> <HR> <ADDRESS><IMG SRC="../gifs/pdelab/pdelab-logo-emboss.gif"> For further information contact pdelab@cs.purdue.edu</ADDRESS> pdelab@cs.purdue.edu</ADDRESS>
+</DOC>

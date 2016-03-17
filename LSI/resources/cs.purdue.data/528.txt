@@ -1,0 +1,4 @@
+<DOC>
+<DOCNO> http://www.cs.purdue.edu/about_us/annual_reports/98/publications/dec.html </DOCNO>
+<HTML><BODY> <P> M. J. Atallah and D. E. Comer. Algorithms for Variable Length Subnet Address Assignment. <em>IEEE Transactions on Computers</em>, 47(6):693-699, June 1998. <p> D. E. Comer. <em>Telecommunications Software for Client-Server Systems</em>. F. Froehlich and A. Kent, editors. Marcel Dekker, Inc., New York, NY, 1998. <p> D. E. Comer. <em>Encyclopedia of Telecommunications</em>. F. Froehlich and A. Kent, editors. Marcel Dekker, Inc., New York, 1998. <p> </BODY></HTML> </BODY></HTML>
+</DOC>

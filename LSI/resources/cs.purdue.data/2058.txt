@@ -1,0 +1,4 @@
+<DOC>
+<DOCNO> http://www.cs.purdue.edu/about_us/annual_reports/98/faculty/guerra/guerra_title.html </DOCNO>
+<HTML> <HEAD> <TITLE>Guerra</TITLE> </HEAD> <BODY BGCOLOR=WHITE TEXT=#CE9C33> <TABLE BORDER=0> <TR><TD ALIGN=CENTER VALIGN=MIDDLE><H2> Concettina Guerra </H2> <I> Associate Professor of Computer Sciences (1984) <BR> Dr. Sc. Math., University of Naples, (Italy), 1972. </I></TD></TR> </TABLE> </BODY> </HTML> </HTML>
+</DOC>

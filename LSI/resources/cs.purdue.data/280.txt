@@ -1,0 +1,4 @@
+<DOC>
+<DOCNO> http://www.cs.purdue.edu/about_us/annual_reports/97/facilities/labs/isrl.html </DOCNO>
+<title>Internetworking and Systems Research Laboratory</title> <head> <body> <h1> Internetworking and Systems Research Laboratory </h1> <img src="goldRule.gif" width=100%> <p> The Internetworking and Systems Research Lab houses equipment used for continuing research in the Internetworking, Xinu, Renaissance, and Crosspoint projects. This equipment includes several Sun workstations (including multiprocessors machines), Intel workstations, and several Hewlett-Packard servers and workstations. In addition, the lab contains both processor and communication equipment for the Crosspoint project. This includes a set of Intel workstations that serve as routers to the wireless net, a FORE ATM switch used as a backbone net for the Intel workstations, and several PCs with wireless ethernet.<P> <img src="goldRule.gif" width=100%> </body> </html> </html>
+</DOC>

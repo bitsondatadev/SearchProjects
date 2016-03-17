@@ -1,0 +1,4 @@
+<DOC>
+<DOCNO> http://www.cs.purdue.edu/homes/ayg/CS251_FALL_99/ASSN_99/hw3/hw3.html </DOCNO>
+<html> <head> <title>Data Structures Homework 3, Fall 1999</title> </head> <body bgcolor="#FFFFFF"> <font align = left face = helvetica> <h1>Data Structures Homework 3, Fall 1999</h1> <h2>Due: Friday, Sept 24, 1999, 12:30 PM (Handin before class)</h2> Absolutely no late submissions accepted. <br> <br> <br> Answer the following questions from your text book: <ul> <li> R-2.13 <li> R-2.18 <li> R-2.19 <li> R-2.22 <li> R-2.24 <li> C-2.4 <li> C-2.9 <li> C-2.12 </ul> </body></html> </body></html>
+</DOC>

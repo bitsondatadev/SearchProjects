@@ -1,0 +1,4 @@
+<DOC>
+<DOCNO> http://www.cs.purdue.edu/homes/mja/prospectivestudents.html </DOCNO>
+<HTML><HEAD> <TITLE>For Graduate Student Applicants Not Yet Admitted ...</TITLE> </HEAD> <BODY> <PRE> I am reluctant to engage in discussions about possible involvement in my research projects and/or about help in obtaining admission, with graduate student applicants who are not yet admitted to Purdue's CS Department: It is premature to engage in such discussions when our very capable graduate admissions committee is still deciding whom to admit. </PRE> </BODY></HTML> </BODY></HTML>
+</DOC>

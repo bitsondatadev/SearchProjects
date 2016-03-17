@@ -1,0 +1,4 @@
+<DOC>
+<DOCNO> http://www.cs.purdue.edu/about_us/annual_reports/98/funding/ake_fund.html </DOCNO>
+<HTML> <HEAD> <TITLE>Elmagarmid Funding</TITLE> </HEAD> <BODY BGCOLOR="WHITE"> <p> <!--671-1398-2588--> Elias N. Houstis, <b>Ahmed K. Elmagarmid</b>, and Sanjiva Weerawarana. Sciencepad: An Electronic Notepad for Ubiquitous Scientific Computing. Intel, 01/96&#151;&#151;, $153,078. <P> <!--670-1398-4098--> Aditya Mathur and <b>Ahmed K. Elmagarmid</b>. Data Quality 97. SERC, 07/98&#151;06/99, $25,000. <P> <FONT COLOR="#ce9c33" SIZE="-1"> <A HREF="http://www.cs.purdue.edu/ar98" TARGET="_top"> <CENTER> 1998 <BR> Annual Research Report</A> <P> <A HREF="http://www.cs.purdue.edu" TARGET="_top">Department of <BR> Computer Sciences</A> </CENTER> </FONT> </BODY> </HTML> </HTML>
+</DOC>

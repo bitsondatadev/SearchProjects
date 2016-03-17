@@ -1,0 +1,4 @@
+<DOC>
+<DOCNO> http://www.cs.purdue.edu/about_us/annual_reports/98/faculty/hosking/hosking_bio.html </DOCNO>
+<HTML> <HEAD> <TITLE>Hosking</TITLE> </HEAD> <BODY BGCOLOR="WHITE"> Dr. Hosking's research lies at the intersection between programming languages and database systems, focusing on the integration of language and database functionality for efficient data management. Particular topics of interest include interpretation, compilation, and optimization of object-oriented persistent/database programming languages, and empirical performance evaluation of experimental prototype systems. His current research explores language and compiler support for run-time object management (e.g., garbage collection, persistence, resilience, distribution and security) in the context of the Smalltalk, Modula-3, and Java programming languages. </BODY> </HTML> </HTML>
+</DOC>

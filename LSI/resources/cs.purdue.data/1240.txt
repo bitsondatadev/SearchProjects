@@ -1,0 +1,4 @@
+<DOC>
+<DOCNO> http://www.cs.purdue.edu/homes/mja/prospectivestudents2.html </DOCNO>
+<HTML><HEAD> <TITLE>For Prospective Grad Students Already Admitted to the CS Department ...</TITLE> </HEAD> <BODY> <PRE> I am generally reluctant to involve a newly-arrived Ph.D. student who is taking a full courseload in my research projects, until after the student has been at Purdue for at least one semester. I actually prefer to wait until the student has already passed all the Qual I requirements (although a student who, for example, took and passed 3 quals in their first semester, may impress me enough to make an exception). I will generally not provide RA support when the research interaction is just beginning -- I will wait for evidence that we can work together and obtain research results at a level and rate in line with what I expect from my Ph.D. students. </PRE> </BODY></HTML> </BODY></HTML>
+</DOC>

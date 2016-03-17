@@ -1,0 +1,4 @@
+<DOC>
+<DOCNO> http://www.cs.purdue.edu/about_us/annual_reports/98/funding/bxd_fund.html </DOCNO>
+<HTML> <HEAD> <TITLE>Dunsmore Funding</TITLE> </HEAD> <BODY BGCOLOR="WHITE"> <p> <!--500-1398-3174--> Aditya P. Mathur and <b>H. E. Dunsmore</b>. Enhancement of VSERC to Make I/UCRL Educational Material Available Via the Internet and World Wide Web. National Science Foundation, 04/97&#151;03/99, $55,000. <P> <FONT COLOR="#ce9c33" SIZE="-1"> <A HREF="http://www.cs.purdue.edu/ar98" TARGET="_top"> <CENTER> 1998 <BR> Annual Research Report</A> <P> <A HREF="http://www.cs.purdue.edu" TARGET="_top">Department of <BR> Computer Sciences</A> </CENTER> </FONT> </BODY> </HTML> </HTML>
+</DOC>

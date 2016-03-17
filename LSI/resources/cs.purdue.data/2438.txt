@@ -1,0 +1,4 @@
+<DOC>
+<DOCNO> http://www.cs.purdue.edu/homes/ayg/CS590D/lectures/lec11.html </DOCNO>
+<HTML><HEAD><TITLE>Class Lecture #11 (CS 590D)</TITLE></HEAD> <BODY BGCOLOR="ffffff"> </HEAD> <BR> <H2>Lecture #11</H2> <HR NOSHADE SIZE=2> <P><!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN"></P> <ul> <li><B>Genetic Algorithms in Data Mining</B><BR> <i>Theme:</i> Introduction to GAs<BR> <i>Tuesday, February 17, 1998</i><BR> <BR> <B>Reading Materials:</B><BR> <ol> <li>S. Forrest, Genetic Algorithms, The Computer Science and Engineering Handbook, pages 557-571, CRC Press, 1997. </ol> </ul> <BR> </P> <HR NOSHADE SIZE=2> </P> <A HREF="../index.html"><IMG SRC="../images/returnhome.gif" ALT="Return Home" BORDER=0></A> </BODY></HTML> </BODY></HTML>
+</DOC>

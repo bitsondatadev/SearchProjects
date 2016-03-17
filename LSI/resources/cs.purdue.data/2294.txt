@@ -1,0 +1,4 @@
+<DOC>
+<DOCNO> http://www.cs.purdue.edu/homes/ayg/CS590C/www/assignments.html </DOCNO>
+<html> <head> <title> CS590C: Introduction to Computational Science </title> </head> <BODY background="brainsmall_1019.jpg" text="#ffffff" link="#ffff00" vlink="#ffa000" alink="#ff00ff"> <h1> CS590C: Introduction to Computational Science</h1> <h3>Fall 1996</h3><br> This page contains your assignments. <ul> <li> <a href = "../ps/assn1.ps"> Assignment 1: Gnuplot and MAXIMA. (postscript)</a> <li> <a href = "../ps/assn2.ps"> Assignment 2: Matlab and Tcl/Tk. (postscript)</a> <li> <a href = "../ps/assn3.ps"> Assignment 3: Iterative Methods. (postscript)</a> <li> <a href = "../ps/assn4.ps"> Assignment 4: Parallel Computing. (postscript)</a> </ul> </ul>
+</DOC>

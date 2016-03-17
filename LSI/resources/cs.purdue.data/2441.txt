@@ -1,0 +1,4 @@
+<DOC>
+<DOCNO> http://www.cs.purdue.edu/homes/ayg/CS590D/lectures/lec8.html </DOCNO>
+<HTML><HEAD><TITLE>Class Lecture #8 (CS 590D)</TITLE></HEAD> <BODY BGCOLOR="ffffff"> </HEAD> <BR> <H2>Lecture #8</H2> <HR NOSHADE SIZE=2> <P><!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN"></P> <ul> <li><B>A Tutorial on Neural Networks</B><BR> <i>Theme:</i>Are Neural Nets different from Statistics?<BR> <i>Thursday, February 5, 1998</i><BR> <BR> <B>Reading Materials:</B><BR> <ol> <li>A.K. Jain and J. Mao, Artificial Neural Networks: A Tutorial, IEEE Computer, pages 31-44, March 1996. </ol> </ul> <BR> </P> <HR NOSHADE SIZE=2> </P> <A HREF="../index.html"><IMG SRC="../images/returnhome.gif" ALT="Return Home" BORDER=0></A> </BODY></HTML> </BODY></HTML>
+</DOC>

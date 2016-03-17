@@ -1,0 +1,4 @@
+<DOC>
+<DOCNO> http://www.cs.purdue.edu/about_us/annual_reports/98/faculty/ssw/ssw_title.html </DOCNO>
+<HTML> <HEAD> <TITLE>Wagstaff</TITLE> </HEAD> <BODY BGCOLOR=WHITE TEXT=#CE9C33> <TABLE BORDER=0> <TR><TD ALIGN=CENTER VALIGN=MIDDLE><H2> Samuel S. Wagstaff, Jr. </H2> <I> Professor of Computer Sciences (1983) <BR> B.S., Massachusetts Institute of Technology, 1966. Ph.D., Cornell University, 1970. </I></TD></TR> </TABLE> </BODY> </HTML> </HTML>
+</DOC>

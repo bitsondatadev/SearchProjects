@@ -1,0 +1,4 @@
+<DOC>
+<DOCNO> http://www.cs.purdue.edu/about_us/annual_reports/98/faculty/gnf/gnf_photo.html </DOCNO>
+<HTML> <HEAD> <TITLE>Frederickson</TITLE> </HEAD> <BODY BGCOLOR=BLACK> <TABLE BORDER=0 ALIGN=CENTER CELLPADDING=2 BGCOLOR=#CE9C33> <TR><TD ALIGN=CENTER VALIGN=MIDDLE><IMG SRC="../images/gnf.gif"></TD></TR> </TABLE> </BODY> </HTML> </HTML>
+</DOC>

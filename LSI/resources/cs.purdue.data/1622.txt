@@ -1,0 +1,4 @@
+<DOC>
+<DOCNO> http://www.cs.purdue.edu/homes/cs190m/fall08/projects/ </DOCNO>
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "DTD/xhtml1-strict.dtd"> <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"> <head> <meta http-equiv="Content-Type" content="text/html;charset=utf-8" /> <title>CS190M Projects</title> <link rel="stylesheet" type="text/css" href="project.css" /> </head> <body> <div id="project-title">CS190M Projects</div> <ul style="font-size: large;"> <li><a href="project1/">Project 1 - Due 09/18/08</a></li> <li><a href="project2/">Project 2 - Due 10/02/08</a></li> <li><a href="project2b/">Project 2B - Due 10/10/08</a></li> <li><a href="project3/">Project 3 - Due 10/30/08</a></li> <li><a href="project4/">Project 4 - Due 11/20/08</a></li> <li><a href="project5/">Project 5 - Due 12/11/08</a></li> </ul> </body> </html> </html>
+</DOC>

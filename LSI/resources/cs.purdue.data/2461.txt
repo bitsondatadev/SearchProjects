@@ -1,0 +1,4 @@
+<DOC>
+<DOCNO> http://www.cs.purdue.edu/homes/ci/draft/sc03.html </DOCNO>
+<html><body> <body bgcolor="#ffffff"> Copyright IEEE, 2003. Personal use of this material is permitted. However, permission to reprint/republish this material for advertising or promotional purposes or for creating new collective works for resale or redistribution to servers or lists, or to reuse any copyrighted component of this work in other works must be obtained from the IEEE. <br><br> Yonghua Ding and Zhiyuan Li, <a href="SC03.ps"> ``Compiler Analysis of Interprocedural Data Communication,'' </a> (.ps) (Preprint), <i> Proceedings of IEEE/ACM Supercomputing Conference (SC2003)} </i>, Nov. 2003, Phoenix, Arizona. </body> </html> </html>
+</DOC>

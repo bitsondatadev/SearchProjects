@@ -1,0 +1,4 @@
+<DOC>
+<DOCNO> http://www.cs.purdue.edu/about_us/annual_reports/98/faculty/ssw/ssw_bio.html </DOCNO>
+<HTML> <HEAD> <TITLE>Wagstaff</TITLE> </HEAD> <BODY BGCOLOR="WHITE"> Before coming to Purdue, Professor Wagstaff taught at the Universities of Rochester, Illinois, and Georgia. He spent a year at the Institute for Advanced Study in Princeton. His research interests are in the areas of cryptography, parallel computation, and analysis of algorithms, especially number theoretic algorithms. He and J. W. Smith of the University of Georgia have built a special processor with parallel capability for factoring large integers. He is the author of "Factorizations of b<sup>n</sup> &plusmn; 1, b = 2, 3, 5, 6, 7, 10, 11, 12 up to high powers," <EM>Contemporary Mathematics</EM>, 22, American Mathematical Society, Providence (1983) (second edition 1988), (with John Brillhart, D. H. Lehmer, J. L. Selfridge, and Bryant Tuckerman). </BODY> </HTML> </HTML>
+</DOC>

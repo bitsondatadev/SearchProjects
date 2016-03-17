@@ -1,0 +1,4 @@
+<DOC>
+<DOCNO> http://www.cs.purdue.edu/news/announce/outstanding-ta.html </DOCNO>
+<HTML> <HEAD> <TITLE> Outstanding TAs Recognized </TITLE> </HEAD> <BODY BGCOLOR="#FFFFFF"> <TABLE BORDER="0" WIDTH="700"> <TD ALIGN="RIGHT"><FONT FACE="Arial,Helvetica"><B>May 4, 2001</B></FONT></TD> <TR><TD HEIGTH="25">&nbsp</TD></TR> <TR><TD ALIGN="CENTER"><FONT SIZE="+1"><B>Outstanding TAs Recognized</B></FONT></TD></TR> <TR><TD HEIGTH="35">&nbsp</TD></TR> <TR><TD> <FONT FACE="Arial,Helvetica"> In recognition of their outstanding performance as teaching assistants during the 2000-2001 academic year, the Department of Computer Sciences has awarded handheld computers to:<P> <B>Jo&atilde;o Cangussu</B>,<P> <B>Andrew Huffman</B>, and<P> <B>Vinayak Tanksale</B>.<P> </TD></TR> </TABLE> </BODY> </HTML> </HTML>
+</DOC>

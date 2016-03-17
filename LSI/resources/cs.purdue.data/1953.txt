@@ -1,0 +1,4 @@
+<DOC>
+<DOCNO> http://www.cs.purdue.edu/about_us/annual_reports/98/faculty/seh/seh_bio.html </DOCNO>
+<HTML> <HEAD> <TITLE>Hambrusch</TITLE> </HEAD> <BODY BGCOLOR="WHITE"> <p> Professor Hambrusch's research interests are in the area of parallel computation, scalable parallel systems and algorithms, image processing and computer vision, and analysis of algorithms. Her research contributions include parallel algorithms for image processing and graph problems, parallel models, communication and synchronization in message-passing MPP's, and algorithms for VLSI layout and routing problems. <p> Dr. Hambrusch is a member of the Editorial Boards of <i>Parallel Computing</i> and <i>Information Processing Letters</i> and a member of the IEEE Technical Committee on Parallel Processing (TCPP). Dr. Hambrusch has held visiting positions at the International Computer Science Institute, Berkeley, and at the Technical University of Graz, Austria. </BODY> </HTML> </HTML>
+</DOC>

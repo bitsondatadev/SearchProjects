@@ -1,0 +1,4 @@
+<DOC>
+<DOCNO> http://www.cs.purdue.edu/about_us/annual_reports/98/facilities/labs/cse_lab.html </DOCNO>
+<HTML> <HEAD> <TITLE>CS&E Labs</TITLE> </HEAD> <BODY BGCOLOR="WHITE"> <FONT COLOR="#CE9C33"><H2>CS&E Lab</H2></FONT> <P> <P> <FONT COLOR="#ce9c33" SIZE="-1"> <A HREF="http://www.cs.purdue.edu/ar98" TARGET="_top"> <CENTER> 1998 <BR> Annual Research Report</A> <P> <A HREF="http://www.cs.purdue.edu" TARGET="_top">Department of <BR> Computer Sciences</A> </CENTER> </FONT> </BODY> </HTML> </HTML>
+</DOC>

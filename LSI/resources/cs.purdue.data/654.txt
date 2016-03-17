@@ -1,0 +1,4 @@
+<DOC>
+<DOCNO> http://www.cs.purdue.edu/about_us/annual_reports/98/publications/jorg.html </DOCNO>
+<HTML><BODY> <P> J. Peters and U. Reif. Analysis of Generalized B-Spline Subdivision Algorithms. <em>SIAM Journal of Numerical Analysis</em>, 35(2):728-748, April 1998. <p> J. Peters and U. Reif. The 42 Equivalence Classes of Quadratic Surfaces in Affine n-Space. <em>Computer-Aided Geometric Design</em>, 57:459-473, 1998. <p> C. Gonzalez and J. Peters. <em>The Topological House</em>. Berlin, 1998. Videotape featured at VideoMath 98.<p> J. Peters and U. Reif. The Simplest Subdivision Scheme for Smoothing Polyhedra. <em>ACM Transactions on Graphics</em>, 16(4):420-431, October 1997. <p> J. Peters and A. Nasri. Computing Volumes of Solids Enclosed by Recursive Subdivision Surfaces. <em>Computer Graphics Forum</em>, 16(3):C89-C94, September 1997. <p> </BODY></HTML> </BODY></HTML>
+</DOC>

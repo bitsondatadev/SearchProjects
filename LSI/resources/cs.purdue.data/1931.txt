@@ -1,0 +1,4 @@
+<DOC>
+<DOCNO> http://www.cs.purdue.edu/about_us/annual_reports/98/faculty/dcm/dcm_title.html </DOCNO>
+<HTML> <HEAD> <TITLE>Marinescu</TITLE> </HEAD> <BODY BGCOLOR=WHITE TEXT=#CE9C33> <TABLE BORDER=0> <TR><TD ALIGN=CENTER VALIGN=MIDDLE><H2> Dan Cristian Marinescu </H2> <I> Professor of Computer Sciences (1984) <BR> M.S., electrical engineering, Polytechnic Institute, Bucharest, 1965; M.S., electrical engineering and computer science, University of California at Berkeley, 1969; Ph.D., EECS, Polytechnic Institute, Bucharest, 1975. </I></TD></TR> </TABLE> </BODY> </HTML> </HTML>
+</DOC>
