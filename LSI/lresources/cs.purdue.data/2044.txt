@@ -1,4 +1,0 @@
-<DOC>
-<DOCNO> http://www.cs.purdue.edu/about_us/annual_reports/98/faculty/cmh/cmh_title.html </DOCNO>
-<HTML> <HEAD> <TITLE>Hoffmann</TITLE> </HEAD> <BODY BGCOLOR=WHITE TEXT=#CE9C33> <TABLE BORDER=0> <TR><TD ALIGN=CENTER VALIGN=MIDDLE><H2> Christoph M. Hoffmann </H2> <I> Professor of Computer Sciences (1976) <BR> Ph.D., University of Wisconsin, 1974. </I></TD></TR> </TABLE> </BODY> </HTML> </HTML>
-</DOC>

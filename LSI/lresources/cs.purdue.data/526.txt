@@ -1,4 +1,0 @@
-<DOC>
-<DOCNO> http://www.cs.purdue.edu/about_us/annual_reports/98/publications/wxg.html </DOCNO>
-<HTML><BODY> <P> W. Gautschi. Ostrowski and the Ostrowski Prize. <em>The Mathematical Intelligencer</em>, 20:32-34, July 1998. <p> W. Gautschi and G. V. Milovanovie. S-orthogonality and Construction of Gauss-Turan-type Quadrature Formulae. <em>Journal of Computational and Applied Mathematics</em>, 86:205-218, November 1997. <p> W. Gautschi and A. B. J. Kuijlaars. Zeros and Critical Points of Sobolev Orthogonal Polynomials. <em>Journal of Approximation Theory</em>, 91:117-137, October 1997. <p> </BODY></HTML> </BODY></HTML>
-</DOC>

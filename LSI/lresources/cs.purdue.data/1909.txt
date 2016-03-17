@@ -1,4 +1,0 @@
-<DOC>
-<DOCNO> http://www.cs.purdue.edu/about_us/annual_reports/98/faculty/jrr/jrr_title.html </DOCNO>
-<HTML> <HEAD> <TITLE>Rice</TITLE> </HEAD> <BODY BGCOLOR=WHITE TEXT=#CE9C33> <TABLE BORDER=0> <TR><TD ALIGN=CENTER VALIGN=MIDDLE><H2> John R. Rice </H2> <I> W. Brooks Fortune Distinguished Professor of Computer Sciences (1964) <BR> Ph.D., California Institute of Technology, 1959. </I></TD></TR> </TABLE> </BODY> </HTML> </HTML>
-</DOC>

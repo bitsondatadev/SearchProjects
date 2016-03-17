@@ -1,4 +1,0 @@
-<DOC>
-<DOCNO> http://www.cs.purdue.edu/about_us/annual_reports/97/publications/rel.html </DOCNO>
-<HTML><BODY> <h1>Publications of R. E. Lynch for the 1997 Annual Report</h1> <h3>September 1996 to December 1997</h3> <P> <IMG SRC="goldRule.gif" width =100%> <P> I. M. Boier-Martin, D. C. Marinescu, R. E. Lynch, and T. S. Baker. Identification of Spherical Virus Particals in Digitized Images of Entire Electron Micrographs. <em>Journal of Structural Biology</em>, 120:146-157, December 1997. <p> <a href="http://www.cs.purdue.edu/ faculty/rel.html"> R. E. Lynch Biographical Information </a><p> <a href="http://www.cs.purdue.edu/ people/rel"> R. E. Lynch Homepage </a><p> <IMG SRC="goldRule.gif" width =100%><P> </BODY></HTML> </BODY></HTML>
-</DOC>

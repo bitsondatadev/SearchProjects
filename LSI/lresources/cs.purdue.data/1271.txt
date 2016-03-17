@@ -1,4 +1,0 @@
-<DOC>
-<DOCNO> http://www.cs.purdue.edu/homes/jv/courses/240f11/ </DOCNO>
-<HEAD> <meta HTTP-EQUIV="REFRESH" content="0; url=http://web.me.com/vitekj/240f11"> </HEAD> </HEAD>
-</DOC>

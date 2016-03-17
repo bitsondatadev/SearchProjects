@@ -1,4 +1,0 @@
-<DOC>
-<DOCNO> http://www.cs.purdue.edu/about_us/annual_reports/98/faculty/bxd/bxd_title.html </DOCNO>
-<HTML> <HEAD> <TITLE>Dunsmore</TITLE> </HEAD> <BODY BGCOLOR=WHITE TEXT=#CE9C33> <TABLE BORDER=0> <TR><TD ALIGN=CENTER VALIGN=MIDDLE><H2> H. E. Dunsmore </H2> <I> Associate Professor of Computer Science (1978) <BR> B.S., mathematics and physics, University of Tennessee, 1968; M.S., computer sciences, 1970; Ph.D., University of Maryland, 1978. </I></TD></TR> </TABLE> </BODY> </HTML> </HTML>
-</DOC>

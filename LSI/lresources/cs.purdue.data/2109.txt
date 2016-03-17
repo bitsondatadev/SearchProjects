@@ -1,4 +1,0 @@
-<DOC>
-<DOCNO> http://www.cs.purdue.edu/about_us/annual_reports/98/faculty/axa/axa_title.html </DOCNO>
-<HTML> <HEAD> <TITLE>Apostolico</TITLE> </HEAD> <BODY BGCOLOR=WHITE TEXT=#CE9C33> <TABLE BORDER=0> <TR><TD ALIGN=CENTER VALIGN=MIDDLE><H2> Alberto Apostolico </H2> <I> Professor of Computer Sciences (1984) <BR> Dr. Engineering, electronic engineering, University of Naples (Italy), 1973; Dipl. Perf., computer science, University of Salerno (Italy), 1976. </I></TD></TR> </TABLE> </BODY> </HTML> </HTML>
-</DOC>

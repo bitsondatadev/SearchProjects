@@ -1,4 +1,0 @@
-<DOC>
-<DOCNO> http://www.cs.purdue.edu/homes/apm/mathur-homepage.html </DOCNO>
-<html> <head> <meta http-equiv="content-type" content="text/html;charset=iso-8859-1"> <meta name="generator" content="Adobe GoLive 4"> <title>Home Page of Aditya Mathur</title> </head> <frameset rows="131,*" bordercolor="#ff8c00" border="6" framespacing="6" frameborder="yes"> <frame src="toc.html" name="table-of-contents" noresize> <frame src="courses.html" name="navigator" noresize> </frameset> <noframes> <body> </body> </noframes> </html> </html>
-</DOC>

@@ -1,4 +1,0 @@
-<DOC>
-<DOCNO> http://www.cs.purdue.edu/homes/ayg/CS590D/lectures/lec10.html </DOCNO>
-<HTML><HEAD><TITLE>Class Lecture #10 (CS 590D)</TITLE></HEAD> <BODY BGCOLOR="ffffff"> </HEAD> <BR> <H2>Lecture #10</H2> <HR NOSHADE SIZE=2> <P><!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN"></P> <ul> <li><B>Miscellaneous Algorithms</B><BR> <i>Theme:</i> Introduction to MLC++<BR> <i>Thursday, February 12, 1998</i><BR> <BR> <B>Reading Materials:</B><BR> <ol> <li>Browse the <a href="http://www.sgi.com/Technology/mlc/">MLC++ web page</a><BR> </ol> </ul> <BR> </P> <HR NOSHADE SIZE=2> </P> <A HREF="../index.html"><IMG SRC="../images/returnhome.gif" ALT="Return Home" BORDER=0></A> </BODY></HTML> </BODY></HTML>
-</DOC>

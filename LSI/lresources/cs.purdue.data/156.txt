@@ -1,4 +1,0 @@
-<DOC>
-<DOCNO> http://www.cs.purdue.edu/usb/ </DOCNO>
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN"> <html> <head> <meta http-equiv="Content-Type" content="text/html;charset=utf-8" > <title>Undergraduate Student Board | Redirect Page</title> <STYLE type="text/css"> BODY { margin: 10px; padding: 10px; } </STYLE> </head> <body> <div align='center'> <TABLE width='600'><TR><TD align='center'> <IMG src="./usb_logo_text.jpg"><BR> <h3> The CS Undergraduate Student Board website has moved (and become immensely cooler) <BR><BR> <S>In five seconds, you will be automagically transported there.</S><BR><BR> <A HREF='http://usb.purdue.org'>http://usb.purdue.org</A> </h3> </TR></TD></TABLE> </DIV> </body> </html> </html>
-</DOC>

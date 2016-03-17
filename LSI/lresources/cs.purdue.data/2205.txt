@@ -1,4 +1,0 @@
-<DOC>
-<DOCNO> http://www.cs.purdue.edu/homes/dec/tcpip2.errata.html </DOCNO>
-<HTML> <HEAD> <TITLE> Errata for TCP/IP Volume 2 </TITLE> </HEAD> <BODY> <H2> Internetworking With TCP/IP Volume 2 (3rd Edition) </H2> <BR> <NL> Page 55 <UL> The third argument of write should include the Ethernet packet header length<BR><BR> <UL> write(pni->ni_dev, pep, EP_HLEN+arplen); </UL> </UL> Page 72 <UL> The macro used to test CLASSE addresses restricts them to values starting with 11110. The macro should accept any address that begins with 1111 as long as it is not the all-1s (limited broadcast) address. </UL> Page 84 <UL> In the description of broadcast datagrams, the terms "original" and "copy" are reversed from the description on page 71. </UL> <BR> <BR> <H4><A HREF="netbooks.html#vol2">Return to list of Comer's networking books</A></H4> <BR> <H4><A HREF="http://www.cs.purdue.edu/people/comer">Return to Comer's homepage</A></H4> </BODY> </HTML> </HTML>
-</DOC>

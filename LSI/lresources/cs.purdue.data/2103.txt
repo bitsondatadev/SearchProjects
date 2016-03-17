@@ -1,4 +1,0 @@
-<DOC>
-<DOCNO> http://www.cs.purdue.edu/about_us/annual_reports/98/faculty/dec/dec_bio.html </DOCNO>
-<HTML> <HEAD> <TITLE>Douglas E. Comer</TITLE> </HEAD> <BODY BGCOLOR="WHITE"> <P> Professor Comer's research focuses on issues in computer networks and operating systems. Most of his work is experimental. He and his students design systems and evaluate their performance using prototype implementations. Comer is an internationally recognized expert on TCP/IP, who gives lectures at various network meetings and as a consultant to private industry. He is well-known for his ground breaking textbooks. <P> Professor Comer is the editor of <i>Software-Practice and Experience</i> (a research journal published by John Wiley & Sons). He is the former chairman of the DARPA Distributed Systems Architecture Board and the CSNET Technical Committee, and member of the Internet Activities Board. </BODY> </HTML> </HTML>
-</DOC>

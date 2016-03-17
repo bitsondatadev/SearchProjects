@@ -1,4 +1,0 @@
-<DOC>
-<DOCNO> http://www.cs.purdue.edu/homes/wxg/videos.html </DOCNO>
-<html> <head><title>Euler Videos</title></head> <body bgcolor="#ffffff"> <H2>Euler Videos</H2> <DL> <DD><A HREF="buckle.avi">buckle.avi<BR> <DD><A HREF="eulerdisk.avi">eulerdisk.avi<BR> <DD><A HREF="eulerflow.avi">eulerflow.avi<BR> <DD><A HREF="zahn.avi">zahn.avi<BR> <DD><A HREF="EulerLect_March07.avi">EulerLect_March07.avi<P> </DL> </body> </html> </html>
-</DOC>

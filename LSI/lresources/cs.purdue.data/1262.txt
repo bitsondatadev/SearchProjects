@@ -1,4 +1,0 @@
-<DOC>
-<DOCNO> http://www.cs.purdue.edu/homes/wxg/lectures.html </DOCNO>
-<html> <head><title>Lectures by Walter Gautschi</title></head> <body bgcolor="#ffffff"> <H2>Selected Lectures by Walter Gautschi</H2> <DL> <DD><A HREF="Euler.pdf">Euler.pdf<BR> <DD><A HREF="slidesEuler.pdf">slidesEuler.pdf<BR> <DD><A HREF="slidesOstrowski.pdf">slidesOstrowski.pdf<BR> <DD><A HREF="slidesCircle.pdf">slidesCircle.pdf<BR> <DD><A HREF="slidesHL.pdf">slidesHL.pdf<BR> <DD><A HREF="slidesMacdonald.pdf">slidesMacdonald.pdf<BR> <DD><A HREF="slidesMadrid.pdf">slidesMadrid.pdf<BR> <DD><A HREF="slidesModAlg.pdf">slidesModAlg.pdf<BR> <DD><A HREF="slidesOP.pdf">slidesOP.pdf<BR> <DD><A HREF="slidesSaff.pdf">slidesSaff.pdf<BR> <DD><A HREF="slidesTheodorus.pdf">slidesTheodorus.pdf<P> </DL> </body> </html> </html>
-</DOC>

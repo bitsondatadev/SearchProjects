@@ -1,4 +1,0 @@
-<DOC>
-<DOCNO> http://www.cs.purdue.edu/about_us/annual_reports/98/faculty/gnf/gnf_bio.html </DOCNO>
-<HTML> <HEAD> <TITLE>Greg N. Frederickson</TITLE> </HEAD> <BODY BGCOLOR="WHITE"> <p> Professor Frederickson's areas of interest include the analysis of algorithms, with special emphasis on data structures, and graph and network algorithms. His recent work has focused on designing data structures to dynamically maintain information about graphs, on designing optimal algorithms for parametric search problems on trees, and on discovering graph decompositions that facilitate fast algorithms for shortest path problems. <p> Professor Frederickson serves on the editorial boards of <i>SIAM Journal on Computing</i>, <i>Algorithmica</i>, and <i>Chicago Journal of Theoretical Computer Science</i>. </BODY> </HTML> </HTML>
-</DOC>

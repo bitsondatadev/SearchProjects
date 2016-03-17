@@ -1,4 +1,0 @@
-<DOC>
-<DOCNO> http://www.cs.purdue.edu/homes/ayg/CS525_99/projects.html </DOCNO>
-<html> <h3> Projects in computer systems </h3> <ul> <li> Source to source compiler for an OpenMP subset for C. <li> Implementing a communication sensitive thread scheduler. <li> Bandwidth / CPU reservation in distributed execution. </ul> <h3> Scientific Computing/Linear Algebra </h3> <ul> <li> Sparse Direct Solver (Cholesky / LU factorization) <li> Message Passing Barnes-Hut Method </ul> <h3> Visualization </h3> <ul> <li> k-d tree volume visualization with object and image coherence <li> Streamlines for vector fields </ul> <h3> Data Intensive Applications </h3> <ul> <li> Classification trees <li> k-nearest neighbor classifier <li> Associations <li> Joins on spatial data </ul> </ul>
-</DOC>

@@ -1,4 +1,0 @@
-<DOC>
-<DOCNO> http://www.cs.purdue.edu/homes/spa/patent.html </DOCNO>
-<H3>Patents and Patent Disclosures:</H3> <DT><B>1982:</B> <I>A method of channel switching in a computer network</I> (in Polish: "Sposob sterowania procesami komutacyjnymi w wezle sieci teleinformatycznej z komutacja kanalow zbudowanym na bazie systemu komputerowego"), with A. Badach, R. Sobczak and M. Zientalski. Patent PRL No. 126 509, 1982. <P> <DT><B>2002:</B> <I>Real-Time Multimedia Decoder Using Mobile Code</I> (with A. Grama), disclosure No. P-02127. <P> <DT><B>2003:</B> <I>Error Resilient Lempel-Ziv Based Data Compression Schemes</I>, (with S. Lonardi), disclosure No. P-03019. <BR> <BR>
-</DOC>

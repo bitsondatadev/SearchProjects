@@ -1,4 +1,0 @@
-<DOC>
-<DOCNO> http://www.cs.purdue.edu/homes/gnf/induct.html </DOCNO>
-<HTML> <HEAD> <TITLE>induction into Purdue's Book of Great Teachers</TITLE> <META name="keywords" content="Purdue University, Book of Great Teachers, induction ceremony"> <META name="description" content="This picture was snapped during Purdue University's induction ceremony for the Book of Great Teachers, August, 28 2008."> </HEAD> <BODY> <! <B> </B> <BR> <BR> <BR> <p ALIGN=CENTER> Book of Great Teachers induction ceremony </p> <p ALIGN=CENTER> Purdue University, Purdue Memorial Union, August 28, 2008: </p> <p ALIGN=CENTER> <IMG SRC=induct2.jpg HEIGHT=408 WIDTH=608> </p> <p ALIGN=CENTER> Provost Randy Woodson, inductee Greg Frederickson, President France C&oacute;rdova. </p> </BODY> </HTML> </HTML>
-</DOC>

@@ -1,4 +1,0 @@
-<DOC>
-<DOCNO> http://www.cs.purdue.edu/about_us/annual_reports/98/faculty/mav/mav_bio.html </DOCNO>
-<HTML> <HEAD> <TITLE>Vavalis</TITLE> </HEAD> <BODY BGCOLOR="WHITE"> Dr. Vavalis is visiting us from the Mathematics Department, University of Crete, Greece, where he is an Assistant Professor of Mathematics. He is also affiliated with the Institute of Applied and Computational Mathematics, Foundation for Research and Development Hellas (FORTH) where he holds a position as Researcher. His main research interests are in the areas of high performance computing, numerical analysis and mathematical modeling. He is currently working on developing and analyzing numerical methods for solving partial differential equations (PDEs), modeling superconducting devices using Josephson Junctions and investigating the formation and dispersion of air pollution. </BODY> </HTML> </HTML>
-</DOC>

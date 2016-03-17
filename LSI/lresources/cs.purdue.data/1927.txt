@@ -1,4 +1,0 @@
-<DOC>
-<DOCNO> http://www.cs.purdue.edu/about_us/annual_reports/98/faculty/apm/apm_title.html </DOCNO>
-<HTML> <HEAD> <TITLE>Mathur</TITLE> </HEAD> <BODY BGCOLOR=WHITE TEXT=#CE9C33> <TABLE BORDER=0> <TR><TD ALIGN=CENTER VALIGN=MIDDLE><H2> Aditya P. Mathur </H2> <I> Professor of Computer Sciences (1987) <BR> B.E., electrical engineering, BITS, Pilani, India, 1970; M.S., electrical engineering, BITS, Pilani, India, 1972; Ph.D., computer science, BITS, Pilani, India, 1977. </I></TD></TR> </TABLE> </BODY> </HTML> </HTML>
-</DOC>

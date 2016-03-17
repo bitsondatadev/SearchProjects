@@ -1,4 +1,0 @@
-<DOC>
-<DOCNO> http://www.cs.purdue.edu/upe/members/members-05.html </DOCNO>
-<HTML> <HEAD> <TITLE>Purdue'e UPE 2005 Members</TITLE> </HEAD> <BODY BGCOLOR="#ffffff" LINK="#0000ff" VLINK="#ff0000" ALINK="#00ff00" TEXT="#000000"> <H1>UPE Members Elected in 2005</H1> <H2>Students</H2> <DIR> <li>Michael Armbrust <li>Anna Arsenieva <li>Elizabeth Blythe <li>Brian Carrier <li>Mehmet Demirci <li>Hazem Elmeleeg <li>Andrew S. Keller <li>Jennifer Lynn Lynch <li>Brandon Martin <li>Steve Mellema <li>Mehmet Ercan Nergiz <li>Sarvjeet Singh <li>Nicolas B. Widman <li>Christopher Patrick Willmore </DIR> <HR> <A HREF = members.html>Back to Members</A> </BODY> </HTML> </HTML>
-</DOC>

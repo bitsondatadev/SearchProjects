@@ -1,4 +1,0 @@
-<DOC>
-<DOCNO> http://www.cs.purdue.edu/homes/hosking/352/exams.html </DOCNO>
-<!DOCTYPE html PUBLIC "-//w3c//dtd html 4.0 transitional//en"> <html> <head> <meta content="text/html; charset=iso-8859-1" http-equiv="Content-Type"> <meta content="Antony Hosking" name="Author"> <title>CS352 Exams</title> </head> <body> <h1> Exams<br> </h1> <blockquote> <!-- <li><a href="069/midterm.pdf">Fall 2006 midterm</a></li> <li><a href="069/final.pdf">Fall 2006 final</a></li> <li><a href="082/midterm.pdf">Spring 2008 midterm</a></li> <li><a href="082/final.pdf">Spring 2008 final</a></li> --> <li><a href="102/midterm.pdf">Spring 2010 midterm</a></li> <li><a href="102/final.pdf">Spring 2010 final</a></li> <li><a href="109/midterm.pdf">Fall 2010 midterm</a></li> <li><a href="109/final.pdf">Fall 2010 final</a></li> </blockquote> </body> </html> </html>
-</DOC>

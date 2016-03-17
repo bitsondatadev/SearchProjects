@@ -1,4 +1,0 @@
-<DOC>
-<DOCNO> http://www.cs.purdue.edu/homes/dec/books.html </DOCNO>
-X<HTML> <HEAD> <TITLE> Comer books </TITLE> <BODY> <CENTER> <H2> <BR> <BR> Books From Douglas Comer <BR> </H2> </CENTER> <BR> <BR> <UL> <IMG SRC="bookshelf.gif"> <BR><BR><BR> <LI> <A HREF="netbooks.html"> Networks and Internets (including TCP/IP Protocols)</A><BR><BR> <LI> <A HREF="osbooks.html"> Computer Architecture and Operating Systems (Xinu)</A><BR><BR> <LI> <A HREF="forbooks.html"> Foreign language editions of books</A><BR><BR> </UL> <BR> <A HREF="http://www.cs.purdue.edu/people/comer"> Comer's Homepage</a><BR> </HTML> </HTML>
-</DOC>

@@ -1,4 +1,0 @@
-<DOC>
-<DOCNO> http://www.cs.purdue.edu/about_us/annual_reports/98/faculty/park/park_title.html </DOCNO>
-<HTML> <HEAD> <TITLE>Park</TITLE> </HEAD> <BODY BGCOLOR=WHITE TEXT=#CE9C33> <TABLE BORDER=0> <TR><TD ALIGN=CENTER VALIGN=MIDDLE><H2> Kihong Park </H2> <I> Assistant Professor of Computer Sciences (1996) <BR> B.A., business administration, Seoul National University, 1988; M.S., computer science, University of South Carolina, 1990; Ph.D., computer science, Boston University, 1996. </I></TD></TR> </TABLE> </BODY> </HTML> </HTML>
-</DOC>

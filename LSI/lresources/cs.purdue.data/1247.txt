@@ -1,4 +1,0 @@
-<DOC>
-<DOCNO> http://www.cs.purdue.edu/homes/gnf/awardT10.html </DOCNO>
-<HTML> <HEAD> <TITLE>Top Ten Teacher Award</TITLE> </HEAD> <BODY> <! <B> </B> <H2>Top Ten Teacher in the Purdue University School of Science, 2003-2004 for <A HREF="http://www.cs.purdue.edu/people/gnf">Greg N. Frederickson</A></H2> <BLOCKQUOTE> The juniors and seniors in the School of Science (now the College of Science) selected the Top Ten Teachers of 2003-2004. They were determined by Purdue's Science Student Council based upon student votes and accompanying comments. See <UL> <LI><a href="http://www.cs.purdue.edu/news/04-01-2004_topteachers.shtml">the news story from the CS department.</a> </UL> </BLOCKQUOTE> <HR> <BR> <p> <I>Last updated April 29, 2010.</I> </p> </BODY> </HTML> </HTML>
-</DOC>

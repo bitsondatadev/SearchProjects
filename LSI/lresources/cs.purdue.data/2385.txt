@@ -1,4 +1,0 @@
-<DOC>
-<DOCNO> http://www.cs.purdue.edu/homes/ayg/CS251_FALL_99/HTML/readme.html </DOCNO>
-<HTML> <BODY BGCOLOR="#ffffff"> <TITLE>Turnin instructions</TITLE> Starting on 10/8/1999, you need to submit your homework with a README file. Your README file should have the following information. <p> Name: <br>Login: (in CAPITAL LETTERS) <br>PSO: (either number or time) <br>Last 4-digit of SSN: <br>E-mail address: </BODY> </HTML> </HTML>
-</DOC>

@@ -1,4 +1,0 @@
-<DOC>
-<DOCNO> http://www.cs.purdue.edu/homes/cs490t/top.htm </DOCNO>
-<html> <head> <title>New Page 4</title> <meta name="GENERATOR" content="Microsoft FrontPage 3.0"> <meta name="Microsoft Border" content="none"> <base target="contents"> </head> <H1>CS490T Advanced Tablet Platform Applications </H1> <p>&nbsp;</p> </body> </html> </html>
-</DOC>

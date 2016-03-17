@@ -1,4 +1,0 @@
-<DOC>
-<DOCNO> http://www.cs.purdue.edu/homes/ayg/CS590D/news.html </DOCNO>
-<HTML><HEAD><TITLE>Data Mining News</TITLE></HEAD> <BODY BGCOLOR="ffffff"> </HEAD> <BR> <H2>Data Mining News</H2> <HR NOSHADE SIZE=2> <P><!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN"></P> <ul> <li>Learn <a href="http://www.research.ibm.com/scout/">how</a> data mining helps National Basketball Association (NBA) coaches and league officials organize and interpret the mountains of data amassed at every game!<BR> <BR> <li>Find out <a href="http://www-aig.jpl.nasa.gov/public/mls/news/sf_examiner_article.html">how</a> data mining helps in the automatic cataloguing of sky surveys, earthquake monitoring and much much more! </ul> <P> <hr noshade size=2> </p> <A HREF="index.html"><IMG SRC="images/returnhome.gif" ALT="Return Home" BORDER=0></A> </BODY></HTML> </BODY></HTML>
-</DOC>

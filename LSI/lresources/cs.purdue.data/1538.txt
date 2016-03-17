@@ -1,4 +1,0 @@
-<DOC>
-<DOCNO> http://www.cs.purdue.edu/homes/apm/courses/BITSC461-fall03/main-frame.html </DOCNO>
-<html> <head> <meta http-equiv="content-type" content="text/html;charset=iso-8859-1"> <meta name="generator" content="Adobe GoLive 4"> <title>BITS C461 Software Engineering</title> </head> <frameset cols="260,*" bordercolor="#009900" framespacing="10" border="10" frameborder="YES"> <frame src="toc.html" name="Navigator"> <frame src="objectives.html" name="Contents" noresize> </frameset> <noframes> <body> </body> </noframes> </html> </html>
-</DOC>

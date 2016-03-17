@@ -1,4 +1,0 @@
-<DOC>
-<DOCNO> http://www.cs.purdue.edu/homes/ayg/CS525_00/grades/letter_grades.html </DOCNO>
-<html> <body> <pre> Here are your final grades.. the first column is the last four digits of your student ID. 4090 A 0682 A 7298 B 0349 B 0820 B 9632 A 1516 A 2432 A 4060 B 4688 A 3543 C 8531 B 1302 C 9546 B 4860 C 2031 B 4443 A 6280 A 1148 A 9935 B 9842 B 9311 A 9805 A 2806 C 3819 B </pre> </body> </html> </html>
-</DOC>

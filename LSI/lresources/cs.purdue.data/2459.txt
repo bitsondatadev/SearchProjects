@@ -1,4 +1,0 @@
-<DOC>
-<DOCNO> http://www.cs.purdue.edu/homes/cs490t/projects/symbol-recognizer/ </DOCNO>
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"> <html> <head> </head> <body> <a href="http://hanzirecognizer.sourceforge.net" title="Hanzi Recognizer">Please click here if you are not redirected</a> <script type="text/javascript"> window.location.href="http://hanzirecognizer.sourceforge.net"; </script> </body> </html> </html>
-</DOC>

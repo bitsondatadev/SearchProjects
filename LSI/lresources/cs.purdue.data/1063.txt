@@ -1,4 +1,0 @@
-<DOC>
-<DOCNO> http://www.cs.purdue.edu/about_us/annual_reports/98/funding/dcm_fund.html </DOCNO>
-<HTML> <HEAD> <TITLE>Marinescu Funding</TITLE> </HEAD> <BODY BGCOLOR="WHITE"> <p> <!--500-1398-3001--> <b>Dan C. Marinescu</b> and Robert E. Lynch. Parallel and Distributed Computing for Solving Large Structural Biology Problems. National Science Foundation, 09/95&#151;08/99, $1,960,000. <p> <!--500-1398-3316--> <b>Dan C. Marinescu</b>. Network Computing in Structural Biology. University of Illinois, 10/97&#151;09/98, $66,000. <p> <!--671-1398-2563--> <b>Dan C. Marinescu</b>. Demand Paging and Gang Scheduling on Distributed Memory Mind Systems. Intel, 10/95&#151;&#151;, $50,000. <P> <FONT COLOR="#ce9c33" SIZE="-1"> <A HREF="http://www.cs.purdue.edu/ar98" TARGET="_top"> <CENTER> 1998 <BR> Annual Research Report</A> <P> <A HREF="http://www.cs.purdue.edu" TARGET="_top">Department of <BR> Computer Sciences</A> </CENTER> </FONT> </BODY> </HTML> </HTML>
-</DOC>

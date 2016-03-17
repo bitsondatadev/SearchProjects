@@ -1,4 +1,0 @@
-<DOC>
-<DOCNO> http://www.cs.purdue.edu/homes/hosking/352/hw.html </DOCNO>
-<!DOCTYPE html PUBLIC "-//w3c//dtd html 4.0 transitional//en"> <html> <head> <meta content="text/html; charset=iso-8859-1" http-equiv="Content-Type"> <meta content="Antony Hosking" name="Author"> <title>CS352 Homeworks</title> </head> <body> <h1>Homeworks</h1> <ol> <li><a href="119/hw1.pdf">Homework 1</a> Due in class, Wednesday October 26</li> <li><a href="119/hw2.html">Homework 2</a> Due in class, Wednesday November 16</li> </ol> </body> </html> </html>
-</DOC>

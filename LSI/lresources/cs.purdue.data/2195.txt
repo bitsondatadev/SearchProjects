@@ -1,4 +1,0 @@
-<DOC>
-<DOCNO> http://www.cs.purdue.edu/homes/dec/yesvirginia.html </DOCNO>
-<HTML> <CENTER> <H1>Yes Virginia, it's real.</H1> <BR> <BR> <UL> <A HREF="oncar.jpg"> <IMG SRC="oncar.icon.jpg"></A> </CENTER> </HTML> </HTML>
-</DOC>

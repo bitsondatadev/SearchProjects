@@ -1,4 +1,0 @@
-<DOC>
-<DOCNO> http://www.cs.purdue.edu/history/table2.html </DOCNO>
-<p> <center> <b>Table 2: Growth of the Computing Facilities from 1979--1994</b> </center> <br> <center> <table border=5> <tr> <td> </td> <th> 1979 </th> <th> 1984 </th> <th> 1989 </th> <th> 1994 </th> </tr> <tr> </tr> <tr> <td> Operating budget </td> <td> $20,000 </td> <td> $150,000 </td> <td> $500,000 </td> <td> $750,000 </td> </tr> <tr> </tr> <tr> <td> Facilities staff </td> <td> 0 </td> <td> 3 </td> <td> 9 </td> <td> 10 </td> </tr> <tr> </tr> <tr> <td> Equipment value </td> <td> $250,000 </td> <td> $2,000,000 </td> <td> $3,500,000 </td> <td> $4,000,000 </td> </tr> </table> </center> </center>
-</DOC>

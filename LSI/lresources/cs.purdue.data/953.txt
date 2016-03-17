@@ -1,4 +1,0 @@
-<DOC>
-<DOCNO> http://www.cs.purdue.edu/about_us/annual_reports/98/faculty/sutinen/sutinen_title.html </DOCNO>
-<HTML> <HEAD> <TITLE>Sutinen</TITLE> </HEAD> <BODY BGCOLOR=WHITE TEXT=#CE9C33> <TABLE BORDER=0> <TR><TD ALIGN=CENTER VALIGN=MIDDLE><H2> Erkki Sutinen </H2> <I> Visiting Assistant Professor of Computer Sciences <BR> Ph.D., computer science, University of Helsinki, 1998. </I></TD></TR> </TABLE> </BODY> </HTML> </HTML>
-</DOC>

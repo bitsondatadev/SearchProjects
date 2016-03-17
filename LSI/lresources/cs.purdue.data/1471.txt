@@ -1,4 +1,0 @@
-<DOC>
-<DOCNO> http://www.cs.purdue.edu/homes/apm/aditya-music/music-pages/apmMusicFrameset.htm </DOCNO>
-<html> <head> <meta http-equiv="content-type" content="text/html;charset=iso-8859-1"> <meta name="generator" content="Adobe GoLive 4"> <title>Aditya Mathur's Music and Poetry</title> </head> <frameset cols="30%,*" bordercolor="#006600" framespacing="12" border="12" frameborder="YES"> <frame src="toc.html" name="apmNavigator" frameborder="YES" bordercolor="#FF9966" scrolling="YES"> <frame src="apmAbout.htm" name="MainMusicPage" bordercolor="#006633" frameborder="YES"> </frameset> <noframes> <body bgcolor="white"> </body> </noframes> </html> </html>
-</DOC>

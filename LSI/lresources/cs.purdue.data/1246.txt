@@ -1,4 +1,0 @@
-<DOC>
-<DOCNO> http://www.cs.purdue.edu/homes/wxg/papers.html </DOCNO>
-<html> <head><title>Recent Papers by Walter Gautschi</title></head> <body bgcolor="#ffffff"> <H2>Recent Papers by Walter Gautschi</H2> <DL> <DD><A HREF="EulerLect.pdf">EulerLect.pdf</A><BR> <DD><A HREF="Gatteschi.pdf">Gatteschi.pdf</A><BR> <DD><A HREF="Bernstein.pdf">Bernstein.pdf</A><P> </DL> </body> </html> </html>
-</DOC>

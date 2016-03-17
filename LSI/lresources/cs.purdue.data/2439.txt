@@ -1,4 +1,0 @@
-<DOC>
-<DOCNO> http://www.cs.purdue.edu/homes/ayg/CS590D/lectures/lec9.html </DOCNO>
-<HTML><HEAD><TITLE>Class Lecture #9 (CS 590D)</TITLE></HEAD> <BODY BGCOLOR="ffffff"> </HEAD> <BR> <H2>Lecture #9</H2> <HR NOSHADE SIZE=2> <P><!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN"></P> <ul> <li><B>Classification and ML algorithms</B><BR> <i>Theme:</i> Introduction to ML algorithms<BR> <i>Tuesday, February 10, 1998</i><BR> <BR> <B>Reading Materials:</B><BR> <ol> <li>J.R. Quinlan, Decision Trees and Instance Based Classifiers, The Computer Science and Engineering Handbook, pages 521-535, CRC Press, 1997. </ol> </ul> <BR> </P> <HR NOSHADE SIZE=2> </P> <A HREF="../index.html"><IMG SRC="../images/returnhome.gif" ALT="Return Home" BORDER=0></A> </BODY></HTML> </BODY></HTML>
-</DOC>

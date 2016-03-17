@@ -1,4 +1,0 @@
-<DOC>
-<DOCNO> http://www.cs.purdue.edu/about_us/annual_reports/98/faculty/mja/mja_title.html </DOCNO>
-<HTML> <HEAD> <TITLE>Atallah</TITLE> </HEAD> <BODY BGCOLOR=WHITE TEXT=#CE9C33> <TABLE BORDER=0> <TR><TD ALIGN=CENTER VALIGN=MIDDLE><H2> Mikhail J. Atallah </H2> <I> Professor of Computer Sciences (1982) <BR> Ph.D., The Johns Hopkins University, 1982. </I></TD></TR> </TABLE> </BODY> </HTML> </HTML>
-</DOC>

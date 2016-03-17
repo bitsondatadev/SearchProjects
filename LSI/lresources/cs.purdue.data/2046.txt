@@ -1,4 +1,0 @@
-<DOC>
-<DOCNO> http://www.cs.purdue.edu/about_us/annual_reports/98/faculty/enh/enh_title.html </DOCNO>
-<HTML> <HEAD> <TITLE>Houstis</TITLE> </HEAD> <BODY BGCOLOR=WHITE TEXT=#CE9C33> <TABLE BORDER=0> <TR><TD ALIGN=CENTER VALIGN=MIDDLE><H2> Elias N. Houstis </H2> <I> Professor of Computer Sciences (1984) <BR> B.S., mathematics, University of Athens, Greece, 1969; Ph.D., mathematics, Purdue University, 1974. </I></TD></TR> </TABLE> </BODY> </HTML> </HTML>
-</DOC>

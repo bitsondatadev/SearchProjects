@@ -1,4 +1,0 @@
-<DOC>
-<DOCNO> http://www.cs.purdue.edu/about_us/annual_reports/97/publications/dec.html </DOCNO>
-<HTML><BODY> <h1>Publications of D. E. Comer for the 1997 Annual Report</h1> <h3>September 1996 to December 1997</h3> <P> <IMG SRC="goldRule.gif" width =100%> <P> D. E. Comer. <em>The Internet Book</em>. Prentice-Hall, Englewood Cliffs, New Jersey, second edition, 1997. <p> D. E. Comer and D. L. Stevens. Internetworking with TCP/IP, Client-Server Programming and Applications, Windows Socket Version, and BSD Socket Version. III, Prentice-Hall, Englewood Cliffs, New Jersey, 1997. <p> <a href="http://www.cs.purdue.edu/ faculty/dec.html"> D. E. Comer Biographical Information </a><p> <a href="http://www.cs.purdue.edu/ people/dec"> D. E. Comer Homepage </a><p> <IMG SRC="goldRule.gif" width =100%><P> </BODY></HTML> </BODY></HTML>
-</DOC>

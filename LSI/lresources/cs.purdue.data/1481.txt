@@ -1,4 +1,0 @@
-<DOC>
-<DOCNO> http://www.cs.purdue.edu/homes/jrr/slides/Collaborating/P055.html </DOCNO>
-<TITLE> Page P055.html </TITLE> <H2> </H2> Slide 55 of 56. <BR> <BR> <A href="P056.html"> <IMG SRC="S055.jpeg"> </A> <BR> Click slide for next, or goto <A href="P054.html"> previous</A>, or <A href="index.html"> back </A> to thumbnail layout. <BR> <BR>
-</DOC>

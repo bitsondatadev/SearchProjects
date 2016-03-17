@@ -1,4 +1,0 @@
-<DOC>
-<DOCNO> http://www.cs.purdue.edu/about_us/annual_reports/98/faculty/jrr/jrrPage.html </DOCNO>
-<HTML> <HEAD> <TITLE>John Rice</TITLE> </HEAD> <FRAMESET ROWS="200,*" BORDER="0"> <!--Splits screen into 2 rows --> <FRAMESET COLS=160,480 BORDER="0"> <!--Splits first row into 2 columns --> <FRAME SRC="jrr_photo.html" NAME="photo"> <FRAME SRC="jrr_title.html" NAME="title"> </FRAMESET> <FRAMESET COLS="160,480" BORDER="0"> <!--Splits second row into 2 columns --> <FRAME SRC="jrr_toc.html" NAME="toc"> <FRAME SRC="jrr_bio.html" NAME="main"> </FRAMESET> </FRAMESET> </HTML> </HTML>
-</DOC>

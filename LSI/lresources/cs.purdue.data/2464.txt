@@ -1,4 +1,0 @@
-<DOC>
-<DOCNO> http://www.cs.purdue.edu/homes/ci/draft/cgo04.html </DOCNO>
-<html><body> <body bgcolor="#ffffff"> Copyright IEEE, 2004. Personal use of this material is permitted. However, permission to reprint/republish this material for advertising or promotional purposes or for creating new collective works for resale or redistribution to servers or lists, or to reuse any copyrighted component of this work in other works must be obtained from the IEEE. <br><br> Yonghua Ding and Zhiyuan Li, <a href="cgo04.pdf"> ``A Compiler Scheme for Reusing Intermediate Computation Results,'' </a> (.pdf) (Preprint), to appear in <a href="http://www.cgo.org"> <i> Proceedings of IEEE/ACM 2004 International Symposium on Code Generation and Optimization (CGO 2004)} </i>, </a> March 20-24 2004, Palo Alto, CA. </body> </html> </html>
-</DOC>

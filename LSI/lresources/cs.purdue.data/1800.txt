@@ -1,4 +1,0 @@
-<DOC>
-<DOCNO> http://www.cs.purdue.edu/homes/apm/publications/feedback-control/feedback-contrl.html </DOCNO>
-
-</DOC>

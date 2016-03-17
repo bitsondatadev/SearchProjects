@@ -1,4 +1,0 @@
-<DOC>
-<DOCNO> http://www.cs.purdue.edu/about_us/annual_reports/98/faculty/spaf/spaf_title.html </DOCNO>
-<HTML> <HEAD> <TITLE>Spafford</TITLE> </HEAD> <BODY BGCOLOR=WHITE TEXT=#CE9C33> <TABLE BORDER=0> <TR><TD ALIGN=CENTER VALIGN=MIDDLE><H2> Eugene H. Spafford </H2> <I> <EM>Professor of Computer Sciences (1987)</EM> and<br> <a href="http://www.cerias.purdue.edu" TARGET="_top"><EM>Director, Purdue CERIAS</EM></a> <BR> <EM> B.A., mathematics and computer science, <a href="http://www.brockport.edu" TARGET="_top">SUNY College at Brockport</a>, 1979; M.S., information and computer science, <a href="http://www.gatech.edu" TARGET="_top">Georgia Institute of Technology</a>, 1981; Ph.D., information and computer science, <a href="http://www.gatech.edu" TARGET="_top">Georgia Institute of Technology</a>, 1986</EM> </I></TD></TR> </TABLE> </BODY> </HTML> </HTML>
-</DOC>

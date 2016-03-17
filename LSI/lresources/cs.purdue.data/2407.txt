@@ -1,4 +1,0 @@
-<DOC>
-<DOCNO> http://www.cs.purdue.edu/homes/ayg/CS251_FALL_99/HTML/turnin6.html </DOCNO>
-<HTML> <BODY BGCOLOR="#ffffff"> <TITLE>Turnin instructions for homework 6</TITLE> Instructions for turning in your homework 6. <br> <br> The turnin instruction for homework 6 is the same as <a href="turnin5.html"> the one for homework 5</a> <p> Turnin the following files if you reuse the Position/Node classes instead of Locator. In your README file, you should list all files that you turnin in. <br><br> HashDictionary.java<br> CheckedList.java<br><br> If you use Locator class, you should turnin in all above files and other files that you have changed or created.<br><br> </BODY> </HTML> </HTML>
-</DOC>

@@ -1,4 +1,0 @@
-<DOC>
-<DOCNO> http://www.cs.purdue.edu/about_us/annual_reports/98/faculty/park/park_bio.html </DOCNO>
-<HTML> <HEAD> <TITLE>Park</TITLE> </HEAD> <BODY BGCOLOR="WHITE"> Dr. Park's research centers around the design, analysis, and implementation of algorithms for controlling network resources in large-scale, high-speed network environments. Of special interest are optimality, stability, and efficiency issues in congestion control, routing, and quality of service (QoS) provision. Dr. Park has also done work on the application side with emphasis on the facilitation of transparent distributed computing environments. He is also interested in fault-tolerance issues in distributed computing where the goal is to design local algorithms for regular, many-body structures (e.g., cellular automata) that collectively exhibit self-healing properties under various faults. </BODY> </HTML> </HTML>
-</DOC>

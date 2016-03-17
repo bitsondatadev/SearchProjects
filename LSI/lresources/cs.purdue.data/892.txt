@@ -1,4 +1,0 @@
-<DOC>
-<DOCNO> http://www.cs.purdue.edu/research/cse/pses/ </DOCNO>
-<!-- HTML Format and Images Courtesy of Jason Catlin 17-Mar-1998 --> <HTML> <BODY BGCOLOR=WHITE TEXT=BLACK> <HEAD> <META HTTP-EQUIV="REFRESH" CONTENT="1; URL=http://www-cgi.cs.purdue.edu/cgi-bin/acc/pses.cgi"> </HEAD> </BODY> </HTML> </HTML>
-</DOC>

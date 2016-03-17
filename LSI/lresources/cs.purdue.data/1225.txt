@@ -1,4 +1,0 @@
-<DOC>
-<DOCNO> http://www.cs.purdue.edu/acm/ </DOCNO>
-<script type="text/javascript"> window.location = "http://web.ics.purdue.edu/~acm" </script> </script>
-</DOC>

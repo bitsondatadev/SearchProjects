@@ -1,4 +1,0 @@
-<DOC>
-<DOCNO> http://www.cs.purdue.edu/about_us/annual_reports/98/faculty/rego/rego_title.html </DOCNO>
-<HTML> <HEAD> <TITLE>Rego</TITLE> </HEAD> <BODY BGCOLOR=WHITE TEXT=#CE9C33> <TABLE BORDER=0> <TR><TD ALIGN=CENTER VALIGN=MIDDLE><H2> Vernon J. Rego </H2> <I> Professor of Computer Sciences (1985) <BR> M.Sc., mathematics, BITS, Pilani, India; M.S., computer science, Michigan State University; Ph.D., computer science, Michigan State University, 1985.</EM> </I></TD></TR> </TABLE> </BODY> </HTML> </HTML>
-</DOC>

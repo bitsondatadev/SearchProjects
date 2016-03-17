@@ -1,4 +1,0 @@
-<DOC>
-<DOCNO> http://www.cs.purdue.edu/about_us/annual_reports/98/faculty/spa/spa_title.html </DOCNO>
-<HTML> <HEAD> <TITLE>Szpankowski</TITLE> </HEAD> <BODY BGCOLOR=WHITE TEXT=#CE9C33> <TABLE BORDER=0> <TR><TD ALIGN=CENTER VALIGN=MIDDLE><H2> Wojciech Szpankowski </H2> <I> Professor of Computer Sciences (1985) <BR> M.S., electrical engineering and computer science, Technical University of Gdansk, 1976; Ph.D., electrical engineering and computer science, Technical University of Gdansk, 1980. </I></TD></TR> </TABLE> </BODY> </HTML> </HTML>
-</DOC>

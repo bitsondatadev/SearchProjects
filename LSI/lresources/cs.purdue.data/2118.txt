@@ -1,4 +1,0 @@
-<DOC>
-<DOCNO> http://www.cs.purdue.edu/upe/members/members-08.html </DOCNO>
-<HTML> <HEAD> <TITLE>Purdue'e UPE 2008 Members</TITLE> </HEAD> <BODY BGCOLOR="#ffffff" LINK="#0000ff" VLINK="#ff0000" ALINK="#00ff00" TEXT="#000000"> <H1>UPE Members Elected in 2008</H1> <H2>Students</H2> <DIR> <li>Suleyman Cetintas</li> <li>Vasil Stefanov Denchev</li> <li>Timothy Robert Jacobs</li> <li>Wei Jiang</li> <li>Kyle Thomas Kral</li> <li>Daniel Palacio</li> <li>Yinian Qi</li> <li>Scott David Richter</li> <li>Umang Sharan</li> <HR> <A HREF = members.html>Back to Members</A> </BODY> </HTML> </HTML>
-</DOC>

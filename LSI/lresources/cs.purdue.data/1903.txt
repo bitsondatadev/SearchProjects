@@ -1,4 +1,0 @@
-<DOC>
-<DOCNO> http://www.cs.purdue.edu/about_us/annual_reports/98/faculty/sameh/sameh_title.html </DOCNO>
-<HTML> <HEAD> <TITLE>Sameh</TITLE> </HEAD> <BODY BGCOLOR=WHITE TEXT=#CE9C33> <TABLE BORDER=0> <TR><TD ALIGN=CENTER VALIGN=MIDDLE><H2> Ahmed Sameh </H2> <I> Department Head and Samuel D. Conte Distinguished Professor of Computer Science <BR> Ph.D., University of Illinois at Urbana-Champaign, 1968. </I></TD></TR> </TABLE> </BODY> </HTML> </HTML>
-</DOC>

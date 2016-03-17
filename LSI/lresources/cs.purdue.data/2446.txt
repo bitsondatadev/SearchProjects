@@ -1,4 +1,0 @@
-<DOC>
-<DOCNO> http://www.cs.purdue.edu/homes/ayg/CS590D/lectures/lec3.html </DOCNO>
-<HTML><HEAD><TITLE>Class Lecture #3 (CS 590D)</TITLE></HEAD> <BODY BGCOLOR="ffffff"> </HEAD> <BR> <H2>Lecture #3</H2> <HR NOSHADE SIZE=2> <P><!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN"></P> <ul> <li><B>Database Perspectives on Data Mining (2)</B><BR> <i>Tuesday, January 20, 1998</i><BR> More details about PROLOG and PROGOL<BR> <BR> Reading Materials: <ul> <li>The PROLOG manual, any book on PROLOG, or use this <a href="http://www.comlab.ox.ac.uk/archive/logic-prog.html#Prolog">site</a>. <li>The PROGOL manual, use the <a href="http://www.comlab.ox.ac.uk/oucl/groups/machlearn/progol.html">PROGOL site</a> link. </ul> <BR> </ul> <BR> <BR> </P> <HR NOSHADE SIZE=2> </P> <A HREF="../index.html"><IMG SRC="../images/returnhome.gif" ALT="Return Home" BORDER=0></A> </BODY></HTML> </BODY></HTML>
-</DOC>

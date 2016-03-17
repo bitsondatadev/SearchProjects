@@ -1,4 +1,0 @@
-<DOC>
-<DOCNO> http://www.cs.purdue.edu/homes/rtc/ </DOCNO>
-<html> <head> <title>home page</title> </head> <h1>home page</h1> This is a test <A HREF="candy.jpg">PICTURE</A> <hr> <address><a href="mailto:rtc@cs.purdue.edu">Ron Castongia</a></address> <!-- Created: Fri Oct 10 13:38:32 EST 1997 --> <!-- hhmts start --> Last modified: Fri Oct 10 14:26:51 EST 1997 <!-- hhmts end --> </body> </html> </html>
-</DOC>

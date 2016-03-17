@@ -1,4 +1,0 @@
-<DOC>
-<DOCNO> http://www.cs.purdue.edu/about_us/annual_reports/98/faculty/sdc/sdc_title.html </DOCNO>
-<HTML> <HEAD> <TITLE>Conte</TITLE> </HEAD> <BODY BGCOLOR=WHITE TEXT=#CE9C33> <TABLE BORDER=0> <TR><TD ALIGN=CENTER VALIGN=MIDDLE><H2> Samuel D. Conte </H2> <I> Professor Emeritus of Computer Sciences and Mathematics (1962) <BR> B.S., Buffalo State, 1939; M.A., Universsity of Buffalo, 1943; Ph.D., University of Michigan, 1950. </I></TD></TR> </TABLE> </BODY> </HTML> </HTML>
-</DOC>

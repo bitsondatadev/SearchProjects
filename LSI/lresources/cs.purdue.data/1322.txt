@@ -1,4 +1,0 @@
-<DOC>
-<DOCNO> http://www.cs.purdue.edu/archives/ </DOCNO>
-<html> <head><title>Software Archive</title></head> <body bgcolor="#FFFFFF"> <h1>Software For:</h1> <h2>Walter Gautschi</h2> <ul> <li><a href="2001/wxg">2001 Software</a> <li><a href="2002/wxg">2002 Software</a> </ul> </body> </html> </html>
-</DOC>

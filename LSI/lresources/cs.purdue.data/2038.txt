@@ -1,4 +1,0 @@
-<DOC>
-<DOCNO> http://www.cs.purdue.edu/upe/members/members-09.html </DOCNO>
-<HTML> <HEAD> <TITLE>Purdue'e UPE 2009 Members</TITLE> </HEAD> <BODY BGCOLOR="#ffffff" LINK="#0000ff" VLINK="#ff0000" ALINK="#00ff00" TEXT="#000000"> <H1>UPE Members Elected in 2008</H1> <H2>Students</H2> <DIR> <li>Pelin Angin</li> <li>John M. Bohlmann</li> <li>Kevin D. Colby</li> <li>Chenyun Dai</li> <li>Travis B. Drake</li> <li>Sahil Gulati</li> <li>Dwight L. Guth</li> <li>Chamikara M. Jayalath</li> <li>Timothy C. Juchinski</li> <li>Samuel T. Kerr</li> <li>Michael S. Kirkpatrick</li> <li>Ankit R. Kuwadekar</li> <li>Mohammad Z. Siddiqui</li> <li>Rongjing Xiang</li> <li>Mohamed A. Yakout</li> <li>Yu Hong Yeung</li> <HR> <A HREF = members.html>Back to Members</A> </BODY> </HTML> </HTML>
-</DOC>

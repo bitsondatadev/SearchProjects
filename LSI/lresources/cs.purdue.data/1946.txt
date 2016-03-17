@@ -1,4 +1,0 @@
-<DOC>
-<DOCNO> http://www.cs.purdue.edu/about_us/annual_reports/98/faculty/li/li_title.html </DOCNO>
-<HTML> <HEAD> <TITLE>Li</TITLE> </HEAD> <BODY BGCOLOR=WHITE TEXT=#CE9C33> <TABLE BORDER=0> <TR><TD ALIGN=CENTER VALIGN=MIDDLE><H2> Zhiyuan Li </H2> <I> Associate Professor of Computer Science (1997) <BR> B.S., Mathematics, Xiamen University, China, 1982; M.S., Computer Sciences, University of Illinois, Urbana, 1985; Ph.D., Computer Sciences, University of Illinois, Urbana, 1989 </I></TD></TR> </TABLE> </BODY> </HTML> </HTML>
-</DOC>

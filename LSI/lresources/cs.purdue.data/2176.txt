@@ -1,4 +1,0 @@
-<DOC>
-<DOCNO> http://www.cs.purdue.edu/homes/acc/toc.html </DOCNO>
-<html> <head> <title>Homepage: Table of Contents</title> </head> <body bgcolor=teal text=white link=white vlink= white alink=white> <base target=contents> <font size=+1> <li><a href="contents.html">Introduction</a> <p> <li><a href="research.html">Research</a> <p> <li><a href="resume.html">Resume</a> <p> <li><a href="publ.html">Publications</a> <p> <li><a href="family.html">Family</a> <p> <li><a href="hobbies.html">Hobbies</a> <p> <li><a href="vakay.html">Fun Vacations</a> </body> </html> </html>
-</DOC>

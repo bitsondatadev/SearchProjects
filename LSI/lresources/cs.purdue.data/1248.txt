@@ -1,4 +1,0 @@
-<DOC>
-<DOCNO> http://www.cs.purdue.edu/homes/gnf/proj_abstr.html </DOCNO>
-<HTML> <HEAD> <TITLE>Graph Algorithms and Data Structures</TITLE> </HEAD> <BODY> <! <B> </B> <H2>Graph Algorithms and Data Structures</H2> <BLOCKQUOTE> This research project in theoretical computer science focuses on problems in two interrelated areas: algorithms for graph problems, and the design of data structures. The common theme is the investigation of efficient computation in these areas. The goals are to generate improved techniques, and characterize significant complexity relationships. A central issue is the efficient coordination of the acquisition of information during a complex computational task. </BLOCKQUOTE> </BODY> </HTML> </HTML>
-</DOC>

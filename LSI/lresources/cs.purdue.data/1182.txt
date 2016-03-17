@@ -1,4 +1,0 @@
-<DOC>
-<DOCNO> http://www.cs.purdue.edu/about_us/annual_reports/98/funding/hosking_fund.html </DOCNO>
-<HTML> <HEAD> <TITLE>Hosking Funding</TITLE> </HEAD> <BODY BGCOLOR="WHITE"> <p> <!--500-1398-3244--> <b>Antony Hosking</b>. Compiling with Persistence. National Science Foundation, 08/97&#151;07/00, $185,000. <p> <!--671-1398-2504--> <b>Antony Hosking</b>. Persistent Programming Languages. Sun, 06/95&#151;&#151;, $147,000. <P> <FONT COLOR="#ce9c33" SIZE="-1"> <A HREF="http://www.cs.purdue.edu/ar98" TARGET="_top"> <CENTER> 1998 <BR> Annual Research Report</A> <P> <A HREF="http://www.cs.purdue.edu" TARGET="_top">Department of <BR> Computer Sciences</A> </CENTER> </FONT> </BODY> </HTML> </HTML>
-</DOC>

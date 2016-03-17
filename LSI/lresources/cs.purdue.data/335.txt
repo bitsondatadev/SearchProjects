@@ -1,4 +1,0 @@
-<DOC>
-<DOCNO> http://www.cs.purdue.edu/about_us/annual_reports/97/publications/russo.html </DOCNO>
-<HTML><BODY> <h1>Publications of V. F. Russo for the 1997 Annual Report</h1> <h3>September 1996 to December 1997</h3> <P> <IMG SRC="goldRule.gif" width =100%> <P> G. Baumgartner and V. F. Russo. Implementing Signatures for C++. <em>ACM Transactions on Programming Languages and Systems</em>, 19(1):153-187, January 1997. See also http://www.acm.org/pubs/citations/journals/toplas/1997-19-1/p153-baumgartner.<p> <a href="http://www.cs.purdue.edu/ faculty/russo.html"> V. F. Russo Biographical Information </a><p> <a href="http://www.cs.purdue.edu/ people/russo"> V. F. Russo Homepage </a><p> <IMG SRC="goldRule.gif" width =100%><P> </BODY></HTML> </BODY></HTML>
-</DOC>

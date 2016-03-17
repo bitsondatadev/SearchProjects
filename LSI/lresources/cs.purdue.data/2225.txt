@@ -1,4 +1,0 @@
-<DOC>
-<DOCNO> http://www.cs.purdue.edu/research/cse/scipad/sponsors.html </DOCNO>
-<TITLE>Sponsors</TITLE> <H2>IntelliPad comes to you courtesy of .... </H2> <MENU> <LI> NSF <LI> AT&T <LI> Intel </MENU> </MENU>
-</DOC>

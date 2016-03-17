@@ -1,4 +1,0 @@
-<DOC>
-<DOCNO> http://www.cs.purdue.edu/homes/dec/tib.errata.html </DOCNO>
-<HTML> <HEAD> <TITLE> Errata for The Internet Book </TITLE> </HEAD> <BODY> <H2> The Internet Book (4th Edition) </H2> <BR> <UL> So far, no problems have been reported. </UL> <BR> <BR> <H4><A HREF="netbooks.html#tib">Return to list of Comer's networking books</A></H4> <BR> <H4><A HREF="http://www.cs.purdue.edu/people/comer">Return to Comer's homepage</A></H4> </BODY> </HTML> </HTML>
-</DOC>

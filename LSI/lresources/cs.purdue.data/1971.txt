@@ -1,4 +1,0 @@
-<DOC>
-<DOCNO> http://www.cs.purdue.edu/about_us/annual_reports/96/research/cmd.html </DOCNO>
-<html> <head> <title>Characterizing Misuse Detection </title> </head> <body> <h1> Characterizing Misuse Detection </h1> Principal Investigators: <a href="../faculty/spaf.html">Eugene Spafford</a> <P> Research Assistant: Tugkan Tuglular <P> Sponsor: <a href="coast.html">COAST</a> Laboratory sponsors <P> <img src="goldRule.gif" width=100%><p> Computer systems may be abused by outsiders (intrusion), or by authorized users acting outside the scope of their authority. Although the problem of insider misuse has been shown to be more widespread, most reseach in the last few decades has been focused on intrusion detection techniques. Our goal is to attempt to characterize misusers and their behavior in a way that will lead to insight about how to detect and prevent insider misuse of computer systems. <P> <img src="goldRule.gif" width=100%> </body> </html> </html>
-</DOC>

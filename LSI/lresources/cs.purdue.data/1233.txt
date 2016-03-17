@@ -1,4 +1,0 @@
-<DOC>
-<DOCNO> http://www.cs.purdue.edu/homes/gnf/awardMIF.html </DOCNO>
-<HTML> <HEAD> <TITLE>Most Inspiring Faculty Member Award</TITLE> </HEAD> <BODY> <! <B> </B> <H2>2006 Most Inspiring Faculty Member Award for <A HREF="http://www.cs.purdue.edu/people/gnf">Greg N. Frederickson</A></H2> <BLOCKQUOTE> The Graduate Student Board, a service organization of Computer Science graduate students at Purdue, made the selection of the Most Inspiring Faculty Member in 2006. See <UL> <LI><a href="http://www.cs.purdue.edu/news/4-03-06awardsbanq.htm">the news story from the Purdue CS department.</a> </UL> </BLOCKQUOTE> <HR> <BR> <p> <I>Last updated April 29, 2010.</I> </p> </BODY> </HTML> </HTML>
-</DOC>

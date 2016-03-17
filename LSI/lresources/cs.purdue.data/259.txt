@@ -1,4 +1,0 @@
-<DOC>
-<DOCNO> http://www.cs.purdue.edu/about_us/annual_reports/97/publications/ssw.html </DOCNO>
-<HTML><BODY> <h1>Publications of S. S. Wagstaff for the 1997 Annual Report</h1> <h3>September 1996 to December 1997</h3> <P> <IMG SRC="goldRule.gif" width =100%> <P> M. A. Bashar, G. Krishnan, M. G. Kuhn, E. H. Spafford, and S. S. Wagstaff. Low-Threat Security Patches and Tools. In M. J. Harrold and Giuseppe Visaggio, editors, <em>Proceedings of the 1997 IEEE International Conference on Software Maintenance</em>, pages 306-313, Bari, Italy, September 29-October 3, 1997. <p> <a href="http://www.cs.purdue.edu/ faculty/ssw.html"> S. S. Wagstaff Biographical Information </a><p> <a href="http://www.cs.purdue.edu/ people/ssw"> S. S. Wagstaff Homepage </a><p> <IMG SRC="goldRule.gif" width =100%><P> </BODY></HTML> </BODY></HTML>
-</DOC>

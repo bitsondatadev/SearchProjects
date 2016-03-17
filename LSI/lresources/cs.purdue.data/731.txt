@@ -1,4 +1,0 @@
-<DOC>
-<DOCNO> http://www.cs.purdue.edu/about_us/annual_reports/98/publications/seh.html </DOCNO>
-<HTML><BODY> <P> S. E. Hambrusch. Preface to the Special Issue on Parallel Models. <em>Information Processing Letters</em>, 66(5):221, 1998. <p> S. E. Hambrusch, A. Khokhar, and Y. Liu. Scalable S-to-P Broadcasting on Message-Passing MPPs. <em>IEEE Transaction on Parallel and Distributed Systems</em>, 9(8):758-768, August 1997. <p> S. E. Hambrusch and H.-Y. Tu. New Algorithms for Minimizing the Longest Wire Length during Circuit Compaction. <em>Algorithmica</em>, 17:426-448, September 1997. <p> </BODY></HTML> </BODY></HTML>
-</DOC>

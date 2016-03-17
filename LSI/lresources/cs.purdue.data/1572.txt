@@ -1,4 +1,0 @@
-<DOC>
-<DOCNO> http://www.cs.purdue.edu/research/cse/pdelabPPK/rgrp.html </DOCNO>
-<HEAD> <TITLE> PDELab Research Group </TITLE> <BODY> <H1>The PDELab Research Group</H1> Faculty: <MENU> <LI><a href="/people/enh">Elias Houstis</a> <LI><a href="/people/jrr">John Rice</a> <LI><a href="/people/hadjidim">Apostolos Hadjidimos</a> </MENU> Visiting Faculty / Post-Doctorals: <MENU> <LI><a href="/people/saw">Sanjiva Weerawarana</a> <LI><a href="/people/joshi">Anupam Joshi</a> </MENU> Staff: <MENU> <LI><a href="/people/acc">Ann Christine Catlin</a> </MENU> Graduate students: <MENU> <LI><a href="/people/verykios">Vassilis Verykios</a> <LI><a href="/people/markus">Shahani Markus Weerawarana</a> </MENU> </BODY> <HR> <ADDRESS><IMG SRC="../gifs/pdelab/pdelab-logo-emboss.gif"> For further information contact pdelab@cs.purdue.edu</ADDRESS> pdelab@cs.purdue.edu</ADDRESS>
-</DOC>

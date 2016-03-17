@@ -1,4 +1,0 @@
-<DOC>
-<DOCNO> http://www.cs.purdue.edu/homes/trinkle/dive.html </DOCNO>
-<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN"> <html> <head> <title>Dive In</title> <link rel="stylesheet" type="text/css" href="my.css" /> <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" /> </head> <body> <div class="figure"> <img src="pictures/dscf0135.JPG"> <p>No problem, I'll get right on it</p> </div> </body> </html> </html>
-</DOC>

@@ -1,4 +1,0 @@
-<DOC>
-<DOCNO> http://www.cs.purdue.edu/about_us/annual_reports/98/publications/axa.html </DOCNO>
-<HTML><BODY> <P> A. Apostolico and G. F. Italiano. Backtracking. In J. G. Webster, editor, <em>Wiley Encyclopedia of Electrical and Electronics Engineering</em>, J. Wiley and Sons, 1998. Invited Paper.<p> A. Apostolico and R. Giancarlo. Sequence Alignment in Molecular Biology. <em>Journal of Computational Biology</em>, 5(2):173-196, 1998. <p> A. Apostolico and S. Lonardi. Some Theory and Practice of Greedy Off-line Textual Substitution. In <em>Proceedings of the IEEE DCC Data Compression Conference</em>, pages 119-128, 1997. <p> A. Amir, A. Apostolico, and M. Lewenstein. Inverse Pattern Matching. <em>Journal of Algorithms</em>, 24:325-339, November 1997. <p> </BODY></HTML> </BODY></HTML>
-</DOC>

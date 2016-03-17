@@ -1,4 +1,0 @@
-<DOC>
-<DOCNO> http://www.cs.purdue.edu/about_us/annual_reports/98/faculty/eps/eps_bio.html </DOCNO>
-<HTML> <HEAD> <TITLE>Sacks</TITLE> </HEAD> <BODY BGCOLOR="WHITE"> Dr. Sacks's research interests are scientific and engineering problem solving, geometric reasoning, and artificial intelligence. Dr. Sacks is the <A HREF="http://www.cs.purdue.edu/visctr/" TARGET="_top">Director of the Visualization Center</A>. </BODY> </HTML> </HTML>
-</DOC>

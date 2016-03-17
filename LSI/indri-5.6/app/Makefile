@@ -19,7 +19,6 @@ install:
 
 clean:
 	rm *.dat 
-	rm *.csv 
 	rm -f $(APP1)
 	rm -f $(APP2)
 	rm -f $(APP3)

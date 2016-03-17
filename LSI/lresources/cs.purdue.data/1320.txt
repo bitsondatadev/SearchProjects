@@ -1,4 +1,0 @@
-<DOC>
-<DOCNO> http://www.cs.purdue.edu/homes/cmh/distribution/PubsRobust.html </DOCNO>
-<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN"> <html> <head> <title>Robustness of Geometric Computations (C. M. Hoffmann)</title> </head> <body bgcolor="#ffffcc"> <hr> <h2>Robustness of Geometric Computations (C. M. Hoffmann)</h2> <hr> <dl> <dt>Towards Implementing Robust Geometric Computations. <dd><i>5<sup>th</sup> ACM Symp. Comp. Geometry</i>, Urbana, Ill., 1988, 106-117; (with J. Hopcroft and M. Karasick).<p> <dt><a href="papers/Robustness/robust2.pdf">The Problems of Accuracy and Robustness in Geometric Computation</a>. <dd><i>IEEE Computer 22</i>, 1989, 31-42.<p> <dt>Robust Boolean Operations on Polyhedral Solids. <dd><i>IEEE Trans. Graphics 9</i>, 1989, 50-59; (with J. Hopcroft and M. Karasick).<p> <dt><a href="papers/Robustness/robust4.pdf">Robustness in Geometric Computations</a>. <dd><i>JCISE 1</i>, 2001, 143-156.<p> </dl> </body> </html>
-</DOC>

@@ -1,4 +1,0 @@
-<DOC>
-<DOCNO> http://www.cs.purdue.edu/homes/cs490t/Fall2003/ </DOCNO>
-<html> <head> <title>CS 490 T</title> <meta name="GENERATOR" content="Microsoft FrontPage 3.0"> </head> <frameset framespacing="0" border="false" frameborder="0" cols="238,*"> <frame name="left" scrolling="no" noresize target="rtop" src="content.htm"> <frameset rows="87,*"> <frame name="rtop" scrolling="no" target="rbottom" src="top.htm" noresize> <frame name="rbottom" src="projects-new.html"> </frameset> <noframes> <body> <p>This page uses frames, but your browser doesn't support them.</p> </body> </noframes> </frameset> </html> </html>
-</DOC>

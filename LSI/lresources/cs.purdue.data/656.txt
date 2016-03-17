@@ -1,4 +1,0 @@
-<DOC>
-<DOCNO> http://www.cs.purdue.edu/about_us/annual_reports/98/publications/gnf.html </DOCNO>
-<HTML><BODY> <P> G. N. Frederickson. Maintaining Regular Properties Dynamically in <i>k</i>-terminal graphs. <em>Algorithmica</em>, 22(3):330-350, November 1998. <p> G. N. Frederickson. <em>Dissections: Plane & Fancy</em>. 310 pages, Cambridge University Press, New York, November 1997. Cambridge, England, March 1998.<p> </BODY></HTML> </BODY></HTML>
-</DOC>

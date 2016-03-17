@@ -1,4 +1,0 @@
-<DOC>
-<DOCNO> http://www.cs.purdue.edu/homes/trinkle/expected.html </DOCNO>
-<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN"> <html> <head> <title>Yeah, right!</title> <link rel="stylesheet" type="text/css" href="my.css" /> <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" /> </head> <body> <div class="figure"> <img src="pictures/laughing.jpg"> <p>That's funny, tell me another one!</p> </div> </body> </html> </html>
-</DOC>
