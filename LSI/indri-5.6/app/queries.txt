@@ -1,0 +1,46 @@
+# Queries doc to automate query docs
+#
+# #########################################
+# General Queries
+
+1 computer science
+2 purdue university computers computing computations
+3 science conference
+4 computer information systems
+5 list of professors
+6 faculty email
+7 technology papers
+
+# Queries only one word in the corpus 
+
+8 pig hive apache 
+9 scissors staplers binders supplies
+10 depressed rash zoloft pills
+
+# Specific queries
+
+11 Walid Aref SpatioTemporal Streaming Databases
+12 Chris Clifton Data Privacy
+13 Jennifer Neville Data Mining Graph
+14 Douglas Comer XINU Operating System
+15 David Ebert Volume Rendering Visualization
+16 CS503 Operating Systems Course Spring 
+17 CS502 Compilers Course Spring 
+18 CS573 Data Mining Course Spring 
+19 CS541 Databases Course Spring 
+20 CS580 Algorithms Course Spring 
+
+
+# Good queries for LSI (Homonyms)
+21 database tree
+22 outdoor park tree
+23 recursive tree
+24 dynamic programming
+25 graduate program
+26 programming language
+
+# Mixed topic query
+27 data tornado coffee services
+28 happy apache candle papers
+29 monitor spatiotemporal clinical gymnasium
+30 sleep angry computer outdoors
