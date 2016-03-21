@@ -2,44 +2,45 @@
 __author__ = 'brian'
 import sys,  numpy as np
 
-def getMovieRating(userId, movieId):
-	simVec = np.zeros(numUsers)
-	for i in range(numUsers):
- 		if i == userId:
-	 		simVec[i] = 1.0
- 		else:
-	 		sumi = 0
-	 		sumj = 0
-	 		simVec[i] = (simVec[i] + (trainDat[i][movieId] * trainDat[userId][movieId])) * 1.0
-	 		sumi = trainDat[i][movieId]
-	 		sumj = trainDat[userId][movieId]
-
-		den = (np.sqrt(sumi) * np.sqrt(sumj))
-
-		if den == 0:
-			simVec[i] = 0
+def getMovieRating(userId, movieId, data):
+	print("userId: " + str(userId))
+	print("movieId: " + str(movieId))
+	simVec = np.zeros(data["numUsers"])
+        print(data["trainDat"])
+        print(np.shape(data["trainDat"]))
+        print(data["trainDat"][userId])
+	nonzeroColumns = np.asarray(np.nonzero(data["trainDat"][userId]))
+	for i in range(data["numUsers"]):
+		if i == userId:
+			simVec[i] = 1.0
 		else:
-			simVec[i] = (simVec[i] / den)
+			for j in nonzeroColumns:
+				sumi = 0
+				sumj = 0
+				simVec[i] += (data["trainDat"][i][j] * data["trainDat"][userId][j])
+				sumi = data["trainDat"][i][j]
+				sumj = data["trainDat"][userId][j]
+				den = (np.sqrt(sumi) * np.sqrt(sumj))
+				if den == 0:
+					simVec[i] = 0
+				else:
+					simVec[i] /= den
 	
 	num = 0
 	den = 0
-	for i in range(numUsers):
-		num = num + (simVec[i] * (trainDat[i][movieId] - meanVec[i]))
-		den = simVec[i];
-	print(simVec)
-	return meanVec[userId] + (num / den)
+	nonzeroRows = np.asarray(np.nonzero(simVec))[0]
+	for i in nonzeroRows:
+		num += (simVec[i] * (data["trainDat"][i][movieId] - data["meanVec"][i]))
+		den += abs(simVec[i])
+	return data["meanVec"][userId] + (num / den)
 
 if __name__ == "__main__":
-	trainDat = np.loadtxt("train.txt")
-	numUsers = len(trainDat)
-	meanVec = np.apply_along_axis(lambda row : np.average(row[np.nonzero(row)]), axis = 1, arr=trainDat)
-	subMeanMat = np.copy(trainDat)
-	
-	for i in range(numUsers):
-		for j in range(len(subMeanMat[i])):
-			subMeanMat[i][j] = subMeanMat[i][j] - meanVec[i]
-
-	similarityMatrix = np.zeros(shape = (numUsers,numUsers) )
-
-	
-	getMovieRating(2, 1)
+	data = {}
+	data["trainDat"] = np.loadtxt("train.txt")
+	data["numUsers"] = len(data["trainDat"])
+	data["meanVec"] = np.apply_along_axis(lambda row : np.average(row[np.nonzero(row)]), axis = 1, arr=data["trainDat"])
+	data["subMeanMat"] = np.copy(data["trainDat"])
+	for i in range(data["numUsers"]):
+		for j in range(len(data["subMeanMat"][i])):
+			data["subMeanMat"][i][j] = data["subMeanMat"][i][j] - data["meanVec"][i]
+	print(getMovieRating(sys.argv[1],sys.argv[2], data))
