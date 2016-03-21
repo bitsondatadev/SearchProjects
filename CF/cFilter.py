@@ -3,13 +3,8 @@ __author__ = 'brian'
 import sys,  numpy as np
 
 def getMovieRating(userId, movieId, data):
-	print("userId: " + str(userId))
-	print("movieId: " + str(movieId))
 	simVec = np.zeros(data["numUsers"])
-        print(data["trainDat"])
-        print(np.shape(data["trainDat"]))
-        print(data["trainDat"][userId])
-	nonzeroColumns = np.asarray(np.nonzero(data["trainDat"][userId]))
+	nonzeroColumns = np.asarray(np.nonzero(data["trainDat"][userId]))[0]
 	for i in range(data["numUsers"]):
 		if i == userId:
 			simVec[i] = 1.0
@@ -43,4 +38,4 @@ if __name__ == "__main__":
 	for i in range(data["numUsers"]):
 		for j in range(len(data["subMeanMat"][i])):
 			data["subMeanMat"][i][j] = data["subMeanMat"][i][j] - data["meanVec"][i]
-	print(getMovieRating(sys.argv[1],sys.argv[2], data))
+	print(getMovieRating(int(sys.argv[1]),int(sys.argv[2]), data))
