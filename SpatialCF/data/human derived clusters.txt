@@ -1,0 +1,66 @@
+Sustenance
+---------------------------------
+bar 
+bbq 
+cafe 
+drinking water 
+fast food 
+ice cream 
+pub 
+restaurant 
+
+Education
+---------------------------------
+kindergarten 
+library 
+school 
+university 
+
+Transportation
+---------------------------------
+bicycle parking 
+bicycle repair station 
+bus station 
+fuel 
+parking 
+parking entrance 
+
+Financial
+---------------------------------
+atm 
+bank 
+
+Healthcare
+---------------------------------
+doctors 
+hospital 
+pharmacy 
+
+Entertainment
+---------------------------------
+arts centre 
+cinema 
+fountain 
+nightclub 
+swimming pool
+theatre 
+ 
+Services
+---------------------------------
+courthouse 
+fire station 
+grave yard 
+police 
+post box
+place of worship 
+recycling 
+shelter 
+
+
+Utilities
+---------------------------------
+bench 
+clock 
+telephone 
+waste basket 
+waste disposal 

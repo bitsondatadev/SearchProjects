@@ -1,0 +1,42 @@
+arts centre 
+atm 
+bank 
+bar 
+bbq 
+bench 
+bicycle parking 
+bicycle repair station 
+bus station 
+cafe 
+cinema 
+clock 
+courthouse 
+doctors 
+drinking water 
+fast food 
+fire station 
+fountain 
+fuel 
+grave yard 
+hospital 
+ice cream 
+kindergarten 
+library 
+nightclub 
+parking 
+parking entrance 
+pharmacy 
+place worship 
+police 
+post box 
+pub 
+recycling 
+restaurant 
+school 
+shelter 
+swimming pool 
+telephone 
+theatre 
+university 
+waste basket 
+waste disposal 
