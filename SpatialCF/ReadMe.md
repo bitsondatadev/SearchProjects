@@ -11,13 +11,14 @@ First I needed to obtain and preprocess the data accordingly. My two sources of 
 1. Since I am limiting my evaluation to Tippecanoe county, I decided to first download a subset of the OSM data ([indiana.osm.pbf](http://download.geofabrik.de/north-america/us/indiana.html)).
 1. I then downloaded and installed a java cli processing application for OSM data called [Osmosis](http://wiki.openstreetmap.org/wiki/Osmosis). This application can be used to filter out data and convert data into a different format or store it into a database. 
     1. Before storing the data into the database I had to set up the MySQL database and create the tables. Unfortunately MySQL isn't officially supported anymore but luckily someone had posted [an old schema](https://github.com/oschrenk/osmosis-mysql/blob/master/mysql-apidb06.sql) and I doctored it to hold the data I needed. 
-    1. I ran the following command using osmosis to store it in a mysql:
+    1. I ran the following command using osmosis to store it in a mysql:<br/>
         ```sh
-        $ osmosis \
-        --read-pbf ..\data\indiana.osm.pbf \
-        --write-apidb host="127.0.0.1" dbType="mysql" database="indiana_osm" \
-        user="*******" password="*******" validateSchemaVersion=no
+        $ osmosis \<br/>
+        --read-pbf ..\data\indiana.osm.pbf \<br/>
+        --write-apidb host="127.0.0.1" dbType="mysql" database="indiana_osm" \<br/>
+        user="*******" password="*******" validateSchemaVersion=no<br/>
         ```
+		<br/>
     1. Osmosis didn't store latitude and longitude as decimals but instead as giant integers (e.g. -87.1234567 became -871234567.00). So to get around this I stored them as big decimals and divided the latitude/longitude columns by 10000000.
     1. From the database I specified the query below using the bounding box left=-86.956787 bottom=40.362765 right=-86.806412 top=40.467845 to surround approximately the boundary of Tippecanoe county.
         ```sql
@@ -38,6 +39,11 @@ First I needed to obtain and preprocess the data accordingly. My two sources of 
         HAVING MAX(longitude) > -86.956787 AND MIN(longitude) < -86.806412 AND MAX(latitude) > 40.362765 AND MIN(latitude) < 40.467845
         ```
     
+The resulting dataset is in the following form and is saved in [osm_tippecanoe_2016.csv](https://raw.githubusercontent.com/brianolsen87/SearchProjects/master/SpatialCF/data/osm_tippecanoe_2016.csv).
+| latitude | longitude | amenity | label |
+|----------|-----------|---------|-------|
+|          |           |         |       |
+
 #### Twitter
 Fortunately for me, my lab has access to Twitter data and I was able to query and export this data using the following command on the SQLCMD tool.
 ```sh
@@ -52,6 +58,10 @@ Fortunately for me, my lab has access to Twitter data and I was able to query an
     -o \\<output_location>\tweet_tippecanoe_2016_1_3.csv -h-1 -s"," -f 65001
 ```
         
+The resulting dataset is in the following form and is saved in [tweet_tippecanoe_2016_1_3.csv](https://raw.githubusercontent.com/brianolsen87/SearchProjects/master/SpatialCF/data/tweet_tippecanoe_2016_1_3.csv). 
+| tweet_id | timestamp | latitude | longitude | user_id | text |
+|----------|-----------|----------|-----------|---------|------|
+|          |           |          |           |         |      |
 ### Failed attempt
 It seems like we could get a sense of what a particular node entity was to classify the areas by looking at the "amenity" tag defined in the OSM data. I initially pulled out a vector of all the amenities that showed up in Tippecannoe county and mapped tweets that contained these words onto this vector space using the term frequencies. I performed a K-means clustering with k=8 to try and map amenities to topics. The problem was that the vector space was too small and specific and it seemed I would get most terms clustering in one or two topics. 
 ### Resolution
