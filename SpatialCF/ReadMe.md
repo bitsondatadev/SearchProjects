@@ -12,31 +12,29 @@ First I needed to obtain and preprocess the data accordingly. My two sources of 
 1. I then downloaded and installed a java cli processing application for OSM data called [Osmosis](http://wiki.openstreetmap.org/wiki/Osmosis). This application can be used to filter out data and convert data into a different format or store it into a database. 
     1. Before storing the data into the database I had to set up the MySQL database and create the tables. Unfortunately MySQL isn't officially supported anymore but luckily someone had posted [an old schema](https://github.com/oschrenk/osmosis-mysql/blob/master/mysql-apidb06.sql) and I doctored it to hold the data I needed. 
     1. I ran the following command using osmosis to store it in a mysql:<br/>
-        ```sh $ osmosis \```<br/>
-        ```sh --read-pbf ..\data\indiana.osm.pbf \```<br/>
-        ```sh --write-apidb host="127.0.0.1" dbType="mysql" database="indiana_osm" \```<br/>
-        ```sh user="*******" password="*******" validateSchemaVersion=no```<br/>
+        ``` $ osmosis \```<br/>
+        ``` --read-pbf ..\data\indiana.osm.pbf \```<br/>
+        ``` --write-apidb host="127.0.0.1" dbType="mysql" database="indiana_osm" \```<br/>
+        ``` user="*******" password="*******" validateSchemaVersion=no```<br/>
         
-		<br/>
     1. Osmosis didn't store latitude and longitude as decimals but instead as giant integers (e.g. -87.1234567 became -871234567.00). So to get around this I stored them as big decimals and divided the latitude/longitude columns by 10000000.
-    1. From the database I specified the query below using the bounding box left=-86.956787 bottom=40.362765 right=-86.806412 top=40.467845 to surround approximately the boundary of Tippecanoe county.
-        ```sql
-        -- Get Nodes 
-        SELECT latitude, longitude, amenity, label 
-        FROM indiana_osm.current_nodes AS N 
-	        JOIN indiana_osm.current_node_tags AS T ON N.id = T.node_id 
-            JOIN indiana_osm.amenity_label AS A ON T.v = A.amenity
-        WHERE k = 'amenity' AND longitude > -86.956787 AND longitude < -86.806412 AND latitude > 40.362765 AND latitude < 40.467845
-        UNION -- Get Ways
-        SELECT AVG(latitude) AS latitude, AVG(longitude) AS longitude, amenity, label
-        FROM indiana_osm.current_way_nodes AS W
-	        JOIN indiana_osm.current_nodes AS N ON N.id = W.node_id
-            JOIN indiana_osm.current_way_tags AS WT ON W.id = WT.way_id 
-            JOIN indiana_osm.amenity_label AS A ON WT.v = A.amenity
-        WHERE k = 'amenity' 
-        GROUP BY W.id
-        HAVING MAX(longitude) > -86.956787 AND MIN(longitude) < -86.806412 AND MAX(latitude) > 40.362765 AND MIN(latitude) < 40.467845
-        ```
+    1. From the database I specified the query below using the bounding box left=-86.956787 bottom=40.362765 right=-86.806412 top=40.467845 to surround approximately the boundary of Tippecanoe county.<br/>
+        ```-- Get Nodes ```<br/>
+        ```SELECT latitude, longitude, amenity, label ```<br/>
+        ```FROM indiana_osm.current_nodes AS N ```<br/>
+	    ```    JOIN indiana_osm.current_node_tags AS T ON N.id = T.node_id ```<br/>
+        ```    JOIN indiana_osm.amenity_label AS A ON T.v = A.amenity```<br/>
+        ```WHERE k = 'amenity' AND longitude > -86.956787 AND longitude < -86.806412 AND latitude > 40.362765 AND latitude < 40.```<br/>
+        ```UNION -- Get Ways```<br/>
+        ```SELECT AVG(latitude) AS latitude, AVG(longitude) AS longitude, amenity, label```<br/>
+        ```FROM indiana_osm.current_way_nodes AS W```<br/>
+	    ```    JOIN indiana_osm.current_nodes AS N ON N.id = W.node_id```<br/>
+        ```    JOIN indiana_osm.current_way_tags AS WT ON W.id = WT.way_id ```<br/>
+        ```    JOIN indiana_osm.amenity_label AS A ON WT.v = A.amenity```<br/>
+        ```WHERE k = 'amenity' ```<br/>
+        ```GROUP BY W.id```<br/>
+        ```HAVING MAX(longitude) > -86.956787 AND MIN(longitude) < -86.806412 AND MAX(latitude) > 40.362765 AND MIN(latitude) < 40.467845```<br/>
+
     
 The resulting dataset is in the following form and is saved in [osm_tippecanoe_2016.csv](https://raw.githubusercontent.com/brianolsen87/SearchProjects/master/SpatialCF/data/osm_tippecanoe_2016.csv).
 
