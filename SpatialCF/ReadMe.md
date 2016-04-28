@@ -5,12 +5,12 @@ Spatial information retrieval (SIR) is an extension of the well studied informat
 
 ## Data wrangling
 
-First I needed to obtain and preprocess the data accordingly. My two sources of data are from [Open Street Maps (OSM)](http://www.openstreetmap.org/)  and  [Twitter](https://twitter.com/) data. I believe the primary hurdle in terms of data aggregation and processing would be classifying and labeling areas or clusters of nodes in the OSM data. 
+First I needed to obtain and preprocess the data accordingly. My two sources of data are from ![Open Street Maps (OSM)](http://www.openstreetmap.org/)  and  ![Twitter](https://twitter.com/) data. I believe the primary hurdle in terms of data aggregation and processing would be classifying and labeling areas or clusters of nodes in the OSM data. 
 ### Getting the data
 #### OSM
-1. Since I am limiting my evaluation to Tippecanoe county, I decided to first download a subset of the OSM data ([indiana.osm.pbf](http://download.geofabrik.de/north-america/us/indiana.html)).
+1. Since I am limiting my evaluation to Tippecanoe county, I decided to first download a subset of the OSM data (![indiana.osm.pbf](http://download.geofabrik.de/north-america/us/indiana.html)).
 1. I then downloaded and installed a java cli processing application for OSM data called [Osmosis](http://wiki.openstreetmap.org/wiki/Osmosis). This application can be used to filter out data and convert data into a different format or store it into a database. 
-    1. Before storing the data into the database I had to set up the MySQL database and create the tables. Unfortunately MySQL isn't officially supported anymore but luckily someone had posted [an old schema](https://github.com/oschrenk/osmosis-mysql/blob/master/mysql-apidb06.sql) and I doctored it to hold the data I needed. 
+    1. Before storing the data into the database I had to set up the MySQL database and create the tables. Unfortunately MySQL isn't officially supported anymore but luckily someone had posted ![an old schema](https://github.com/oschrenk/osmosis-mysql/blob/master/mysql-apidb06.sql) and I doctored it to hold the data I needed. 
     1. I ran the following command using osmosis to store it in a mysql:<br/>
         ``` $ osmosis \```<br/>
         ``` --read-pbf ..\data\indiana.osm.pbf \```<br/>
@@ -36,7 +36,7 @@ First I needed to obtain and preprocess the data accordingly. My two sources of 
         ```HAVING MAX(longitude) > -86.956787 AND MIN(longitude) < -86.806412 AND MAX(latitude) > 40.362765 AND MIN(latitude) < 40.467845```<br/>
 
     
-The resulting dataset is in the following form and is saved in [osm_tippecanoe_2016.csv](https://raw.githubusercontent.com/brianolsen87/SearchProjects/master/SpatialCF/data/osm_tippecanoe_2016.csv).
+The resulting dataset is in the following form and is saved in ![osm_tippecanoe_2016.csv](https://raw.githubusercontent.com/brianolsen87/SearchProjects/master/SpatialCF/data/osm_tippecanoe_2016.csv).
 
 | latitude | longitude | amenity | label |
 |----------|-----------|---------|-------|
@@ -56,7 +56,7 @@ Fortunately for me, my lab has access to Twitter data and I was able to query an
     -o \\<output_location>\tweet_tippecanoe_2016_1_3.csv -h-1 -s"," -f 65001
 ```
         
-The resulting dataset is in the following form and is saved in [tweet_tippecanoe_2016_1_3.csv](https://raw.githubusercontent.com/brianolsen87/SearchProjects/master/SpatialCF/data/tweet_tippecanoe_2016_1_3.csv). 
+The resulting dataset is in the following form and is saved in ![tweet_tippecanoe_2016_1_3.csv](https://raw.githubusercontent.com/brianolsen87/SearchProjects/master/SpatialCF/data/tweet_tippecanoe_2016_1_3.csv). 
 
 | tweet_id | timestamp | latitude | longitude | user_id | text |
 |----------|-----------|----------|-----------|---------|------|
@@ -64,5 +64,5 @@ The resulting dataset is in the following form and is saved in [tweet_tippecanoe
 ### Failed attempt
 It seems like we could get a sense of what a particular node entity was to classify the areas by looking at the "amenity" tag defined in the OSM data. I initially pulled out a vector of all the amenities that showed up in Tippecannoe county and mapped tweets that contained these words onto this vector space using the term frequencies. I performed a K-means clustering with k=8 to try and map amenities to topics. The problem was that the vector space was too small and specific and it seemed I would get most terms clustering in one or two topics. 
 ### Resolution
-I reevaluated what would be important to the evaluation versus the end result being actually usable. In theory as open street maps evolves and they expand their labels using this data would better realize usable data but for the context of this course I discussed with the professor and asked if I could just use the [simple catagories suggested by the open street map wiki](http://wiki.openstreetmap.org/wiki/Key:amenity) and he said it would be fine. That being said, while the actual suggestions being made may not make sense, in the end we will simply evaluate which model gives a better scoring versus what makes better sense in the real world.
+I reevaluated what would be important to the evaluation versus the end result being actually usable. In theory as open street maps evolves and they expand their labels using this data would better realize usable data but for the context of this course I discussed with the professor and asked if I could just use the ![simple catagories suggested by the open street map wiki](http://wiki.openstreetmap.org/wiki/Key:amenity) and he said it would be fine. That being said, while the actual suggestions being made may not make sense, in the end we will simply evaluate which model gives a better scoring versus what makes better sense in the real world.
 ### 
