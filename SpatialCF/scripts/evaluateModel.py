@@ -22,8 +22,6 @@ if __name__ == "__main__":
 	execfile("spatial_association_model.py")
 	
 	user_ids = [
-	#'17322758', #1311
-	#'252620329', #433
 	'388997369', #110
 	'2350966291', #103
 	'44524722', #66
@@ -33,11 +31,9 @@ if __name__ == "__main__":
 	'1925340810', #45
 	'20168184', #45
 	'22896762', #42
-	'136798620', #42
-	#'4681825992', #40
-	#'122111322', #40
-	#'83695067' #38
+	'136798620' #42
 	]
+	
 	tweetReader = list(csv.DictReader(open("..\\data\\tweet_label_tippecanoe_2016.csv", 'r')))
 	users = {}
 	
@@ -74,6 +70,25 @@ if __name__ == "__main__":
 					tru.append(1)
 				avgMSE += mean_squared_error(tru, pred)
 			resultsWriter.writerow({'user_id':user, 'MSE':avgMSE / 5})
-    #    elif model == 2:
+	elif model == 2:
+		resultsWriter = csv.DictWriter(open("..\\analysis\\spatial_association_mse.csv", 'w'), delimiter=',' , lineterminator='\n', fieldnames=['user_id', 'MSE'])
+		resultsWriter.writeheader()
+		for i, user in enumerate(user_ids):
+			print "Evaluating for user: " + user + " Completed: %" + str(float(i)/len(user_ids) * 100)
+			
+			avgMSE = 0
+			for training, testing in k_fold_cross_validation(users[user], K=5):
+				##Run and evaluate the model
+				trainDat = [users[user][i] for i in training]
+				sa = SAModel(tweetReader, trainDat, .5)
+				tru = [] 
+				pred = [] 
+				for i in testing:
+					tweet = users[user][i]
+					location = (round(float(tweet["latitude"]),sa.precision), round(float(tweet["longitude"]),sa.precision), tweet["label"])
+					pred.append(sa.predict(location))
+					tru.append(1)
+				avgMSE += mean_squared_error(tru, pred)
+			resultsWriter.writerow({'user_id':user, 'MSE':avgMSE / 5})
 	end = time.clock() 
 	print(end - start)
