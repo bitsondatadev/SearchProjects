@@ -134,8 +134,7 @@ The average prediction rate over the different users was 0.389. <br/>
 | 136798620  | 0.809144 |
 
 The average prediction rate over the different users was 0.8376. <br/>
-
-	The [code for the evaluation of the models](https://github.com/brianolsen87/SearchProjects/blob/master/SpatialCF/scripts/evaluateModel.py) can be found here.
+The [code for the evaluation of the models](https://github.com/brianolsen87/SearchProjects/blob/master/SpatialCF/scripts/evaluateModel.py) can be found here.
 
 ## Discussion
 All in all I felt like I accomplished my goal even though it wasn't exactly what I had hoped for. I still was to devise a scenario to evaluate association-pattern rule mining applied to spatial collaborative filtering and compare that method with common methods used today. One issue with using association-patterns are that there are no guarantees that there will be local spatial data to any given locations and will usually require you to increase the threshold and qualifying regions. This will ultimately do very poorly on sparse geo-spatial data and would require an incredibly dense set of data to even possibly work effectively. Therefore unless modified to adress the locality issue I believe the proposed model is not very effective at giving good results.
