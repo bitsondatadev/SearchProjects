@@ -19,6 +19,7 @@ def k_fold_cross_validation(X, K):
 if __name__ == "__main__":
 	model = int(sys.argv[1]) 
 	execfile("kernel_topic_model.py")
+	execfile("spatial_association_model.py")
 	
 	user_ids = [
 	#'17322758', #1311
