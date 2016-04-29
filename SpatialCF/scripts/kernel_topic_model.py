@@ -1,50 +1,69 @@
 #!/usr/bin/env python
 __author__ = 'brian'
-import csv
+import csv, math, operator
 
 class KTModel:
-	def __init__(self):
-		self.users = {}
+	def __init__(self, data, userdata, alpha, beta):
+		self.user = {}
+		self.userCount = 0
+		self.user['locations'] = set()
+		self.user['topics'] = {}
 		self.topics = {}
 		self.locations = set()
-		self.N = 0
-		self.precision = 5 # accuracy of commercial GPS units
-		
-		tweetReader = list(csv.DictReader(open("..\\data\\tweet_label_tippecanoe_2016.csv", 'r')))
-		self.N = len(tweetReader)
-		for tweet in tweetReader:
-			uid = tweet["user_id"]
+		self.alpha = float(alpha)
+		self.beta = float(beta)
+		self.precision = 5 # precision of lat/long. 5 = accuracy of commercial GPS units
+
+		for tweet in userdata:
 			topid = tweet["label"]
 			location = (round(float(tweet["latitude"]),self.precision), round(float(tweet["longitude"]),self.precision))
 			
-			if not uid in self.users:
-				self.users[uid] = {}
-				
+			self.user['locations'].add(location)
+
+			if not topid in self.user['topics']:
+				self.user['topics'][topid] = 0
+			self.user['topics'][topid] += 1
+		
+		userSet = set()
+		for tweet in data:
+			userSet.add(tweet["user_id"])
 			self.locations.add(location)
 			
-			if not topid in self.users[uid]:
-				self.users[uid][topid] = 0
-			self.users[uid][topid] += 1
-			
+			topid = tweet["label"]
+			location = (round(float(tweet["latitude"]),self.precision), round(float(tweet["longitude"]),self.precision))
 			if not topid in self.topics:
 				self.topics[topid] = {}
-				
+			
 			if not location in self.topics[topid]:
 				self.topics[topid][location] = 0
 			self.topics[topid][location] += 1
+			
+		self.userCount = len(userSet)
 
-
-		print "Num Users: " + str(len(self.users.keys()))
-		print "Num Topics: " + str(len(self.topics.keys()))
-		print "Num Locations: " + str(len(self.locations))
-
+	def dist(self, instance1, instance2, fields):
+		distance = 0
+		for f in fields:
+			distance += pow((float(instance1[f]) - float(instance2[f])), 2)
+		return math.sqrt(distance)
 	
-	def predict(self, location, user):
-		sum = float(0)
+	def predict(self, location):
+		topicModelPred = float(0)
+		kernelModelPred = float(0)
+		
+		#calculate topic model
 		for top in self.topics:
-			if(location in self.topics[top] and top in self.users[user]):
-				sum += float(float(self.topics[top][location] / len(self.topics)) * float(self.users[user][top] / len(self.users)))
-
-		return sum
+			if(location in self.topics[top] and top in self.user['topics']):
+				topicModelPred += (float(self.topics[top][location]) / len(self.topics)) * (float(self.user['topics'][top]) / self.userCount)
+		
+		#calcualte kernel model
+		for userLocation in self.user['locations']:
+			denom = float(0)
+			for loc in self.locations:
+				denom += math.exp((-self.beta/2) * (self.dist(loc,userLocation,[0,1])**2) )
+			kernelModelPred += math.exp((-self.beta/2) * (self.dist(location,userLocation,[0,1])**2) )
+			
+		kernelModelPred /= denom
+		
+		return (self.alpha * kernelModelPred) + ((1-self.alpha) * topicModelPred)
 
 
